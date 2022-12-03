@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.03/12 03:30 PM
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.03/12 04:00 PM
 https://raw.githubusercontent.com/NyderGX/X/Blur/yap.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,.Yape
 https://raw.githubusercontent.com/NyderGX/X/Blur/yap.mp4
@@ -26,7 +26,7 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/05SPyaD.jpg" ,Animal Planet
 http://168.194.171.33:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="Intl HD" tvg-logo="https://i.imgur.com/05SPyaD.jpg" ,Animal Planet HD
-http://8.242.187.233:5800/play/a08c/index.m3u8
+http://200.106.124.248:8000/play/a0jl/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/oDbnXgn.jpg" ,Antares TV HD
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/u9VslRX.jpg" ,AsiriTV HD
@@ -42,7 +42,7 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/RXNcImL.jpg" ,AXN
 http://160.20.164.171:8001/play/a03d
 #EXTINF:-1 group-title="Intl HD" tvg-logo="https://i.imgur.com/RXNcImL.jpg" ,AXN HD
-http://8.242.187.233:5800/play/a09x/index.m3u8
+http://190.97.172.4:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/ZGA7XNh.jpg" ,BabyFirst
 http://160.20.164.171:8001/play/a02r
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/ZGA7XNh.jpg" ,BabyFirst
@@ -94,7 +94,7 @@ http://45.190.185.210:8000/play/a0bq
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/jwB7uLu.jpg" ,Cinecanal
 http://168.194.171.33:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="Intl HD" tvg-logo="https://i.imgur.com/jwB7uLu.jpg" ,Cinecanal HD
-http://8.242.187.233:5800/play/a08y/index.m3u8
+http://200.106.124.248:8000/play/a0j5/index.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/d83p3IP.jpg" ,Cinemax
 http://160.20.164.171:8001/play/a02b
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/d83p3IP.jpg" ,Cinemax
@@ -165,14 +165,12 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/R8FJdaa.jpg" ,E! Entertainment
 http://168.194.171.33:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/R8FJdaa.jpg" ,E! Entertainment
-http://45.189.117.32:7579/play/a01j/index.m3u8
 #EXTINF:-1 group-title="Intl HD" tvg-logo="https://i.imgur.com/R8FJdaa.jpg" ,E! Entertainment HD
 http://181.175.41.170:8000/play/a0f9
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/SOh6h5u.jpg" ,El Gourmet
 http://160.20.164.171:8001/play/a02u
 #EXTINF:-1 group-title="Intl HD" tvg-logo="https://i.imgur.com/SOh6h5u.jpg" ,El Gourmet HD
-http://45.189.117.32:7579/play/a0qm/index.m3u8
+http://200.48.19.140:10021/play/a01d
 #EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/xjh6DW4.jpg" ,EnerGeek Señal 1
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/VQC7HMc.jpg" ,Energeek Señal 2
@@ -316,7 +314,7 @@ http://168.194.171.33:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/WlFwaI9.jpg" ,MTV 80s
 http://160.20.164.171:8001/play/a00i
 #EXTINF:-1 group-title="Intl HD" tvg-logo="https://i.imgur.com/5NXgVkH.jpg" ,MTV HD
-http://8.242.187.233:5800/play/a086/index.m3u8
+http://200.48.19.140:10021/play/a00h
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/e89vduj.jpg" ,MTV Hits
 http://160.20.164.171:8001/play/a00h
 #EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/pQZectC.jpg" ,Mundo de la Música TV
@@ -328,7 +326,7 @@ https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/Omo7NV5.jpg" ,Nat Geo
 http://168.194.171.33:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="Intl HD" tvg-logo="https://i.imgur.com/Omo7NV5.jpg" ,Nat Geo HD
-http://8.242.187.233:5800/play/a08n/index.m3u8
+http://200.48.19.140:10021/play/a01f
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/g6xiV3y.jpg" ,Nativa HD
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/g6xiV3y.jpg" ,Nativa TV Satipo HD
@@ -448,7 +446,7 @@ https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/ALvDeac.jpg" ,SyFy
 http://168.194.171.33:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Intl HD" tvg-logo="https://i.imgur.com/ALvDeac.jpg" ,SyFy HD
-http://45.181.122.100:8002/play/a004
+http://200.106.124.248:8000/play/a0kt/index.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/xvGlXfH.jpg" ,tbs
 http://168.194.171.33:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/Iz4m1HC.jpg" ,TCM
@@ -542,6 +540,6 @@ https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/AWQ3CdZ.jpg" ,Warner Channel
 http://168.194.171.33:8000/play/a016/index.m3u8
 #EXTINF:-1 group-title="Intl HD" tvg-logo="https://i.imgur.com/AWQ3CdZ.jpg" ,Warner Channel HD
-http://8.242.187.233:5800/play/a08w/index.m3u8
+http://200.48.19.140:10021/play/a00s
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/NMDikkA.jpg" ,Willax
 http://168.194.171.33:8000/play/a01s/index.m3u8
