@@ -3,33 +3,35 @@
 https://raw.githubusercontent.com/NyderGX/X/Blur/yap.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,.Yape
 https://raw.githubusercontent.com/NyderGX/X/Blur/yap.mp4
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/6ZvTaeP.jpg" ,América TV
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/6ZvTaeP.jpg" ,_América TV
 http://168.194.171.33:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/6ZvTaeP.jpg" ,América TV HD
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/6ZvTaeP.jpg" ,_América TV HD
 http://190.187.247.206:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/cHLcEpe.jpg" ,Latina
-http://168.194.171.33:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/cHLcEpe.jpg" ,Latina HD
-http://190.187.247.206:8000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/zDUzn4i.jpg" ,ATV
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/zDUzn4i.jpg" ,_ATV
 http://168.194.171.33:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/zDUzn4i.jpg" ,ATV HD
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/zDUzn4i.jpg" ,_ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/A2hzd3o.jpg" ,ATV+
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/A2hzd3o.jpg" ,_ATV+
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/dRxregB.jpg" ,Panamericana
-http://168.194.171.33:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/dRxregB.jpg" ,Panamericana
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/tOVXz1q.jpg" ,_Cine Club TV HD
+https://servilive.com:3176/live/cineclublive.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/cHLcEpe.jpg" ,_Latina
+http://168.194.171.33:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/cHLcEpe.jpg" ,_Latina HD
+http://190.187.247.206:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/dRxregB.jpg" ,_Panamericana (Señal 1)
 https://cdnh71.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/dRxregB.jpg" ,Panamericana HD
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/dRxregB.jpg" ,_Panamericana (Señal 2)
+http://168.194.171.33:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/dRxregB.jpg" ,_Panamericana HD
 http://190.187.247.206:8000/play/a03l/index.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/CHUdVz6.jpg" ,TVPE
-http://168.194.171.33:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/CHUdVz6.jpg" ,TVPE
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/CHUdVz6.jpg" ,_TVPE (Señal 1)
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/NMDikkA.jpg" ,Willax
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/CHUdVz6.jpg" ,_TVPE (Señal 2)
+http://168.194.171.33:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/NMDikkA.jpg" ,_Willax (Señal 1)
 http://168.194.171.33:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/NMDikkA.jpg" ,Willax
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/NMDikkA.jpg" ,_Willax (Señal 2)
 http://190.187.247.206:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/TBhAabc.jpg" ,3ABN KIDS
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
@@ -77,8 +79,6 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://cloudvideo.servers10.com:8081/8168/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/wLElMRf.jpg" ,Chincha TV HD
 https://tvdatta.com:3548/live/chinchatvlive.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/tOVXz1q.jpg" ,Cine Club TV HD
-https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/jwB7uLu.jpg" ,Cinecanal
 http://168.194.171.33:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="Intl HD" tvg-logo="https://i.imgur.com/jwB7uLu.jpg" ,Cinecanal HD
