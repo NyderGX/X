@@ -1,24 +1,24 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.16/12/2022
-https://raw.githubusercontent.com/NyderGX/X/Blur/yap.mp4
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.27/12/2022
+https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,.Yape
-https://raw.githubusercontent.com/NyderGX/X/Blur/yap.mp4
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/6ZvTaeP.jpg" ,_América TV
-http://168.194.171.33:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/6ZvTaeP.jpg" ,_América TV HD
+https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/6ZvTaeP.jpg" ,_América TV HD (Señal 1)
+http://200.37.54.11:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/6ZvTaeP.jpg" ,_América TV HD (Señal 2)
 http://190.187.247.206:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/zDUzn4i.jpg" ,_ATV
-http://168.194.171.33:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/cHLcEpe.jpg" ,_Latina HD (Señal 1)
+http://200.37.54.11:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/cHLcEpe.jpg" ,_Latina HD (Señal 2)
+http://190.187.247.206:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/zDUzn4i.jpg" ,_ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/zDUzn4i.jpg" ,_ATV SD
+http://168.194.171.33:8000/play/a01x/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/A2hzd3o.jpg" ,_ATV+
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/tOVXz1q.jpg" ,_Cine Club TV HD
 https://servilive.com:3176/live/cineclublive.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/cHLcEpe.jpg" ,_Latina
-http://168.194.171.33:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/cHLcEpe.jpg" ,_Latina HD
-http://190.187.247.206:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/dRxregB.jpg" ,_Panamericana (Señal 1)
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/dRxregB.jpg" ,_Panamericana (Señal 2)
@@ -28,7 +28,7 @@ http://190.187.247.206:8000/play/a03l/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/CHUdVz6.jpg" ,_TVPE (Señal 1)
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/CHUdVz6.jpg" ,_TVPE (Señal 2)
-http://168.194.171.33:8000/play/a01z/index.m3u8
+http://200.37.54.11:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/NMDikkA.jpg" ,_Willax (Señal 1)
 http://168.194.171.33:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/NMDikkA.jpg" ,_Willax (Señal 2)
@@ -42,7 +42,7 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/05SPyaD.jpg" ,Animal Planet
 http://168.194.171.33:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="Intl HD" tvg-logo="https://i.imgur.com/05SPyaD.jpg" ,Animal Planet HD
-http://200.48.19.140:10021/play/a01s
+http://186.148.184.163:8000/play/a04g
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/oDbnXgn.jpg" ,Antares TV HD
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/u9VslRX.jpg" ,AsiriTV HD
@@ -123,6 +123,8 @@ http://190.61.102.67:444/play/a00r
 http://190.187.247.206:8000/play/a09c/index.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/olNsn8k.jpg" ,Disney Channel
 http://45.190.185.210:8000/play/a0be
+#EXTINF:-1 group-title="Intl HD" tvg-logo="https://i.imgur.com/olNsn8k.jpg" ,Disney Channel HD
+http://186.148.184.163:8000/play/a03s
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/rY1OoQk.jpg" ,Disney Jr.
 http://168.194.171.33:8000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/hRh8o0U.jpg" ,DiásporaTV HD
@@ -136,7 +138,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/SOh6h5u.jpg" ,El Gourmet
 http://160.20.164.171:8001/play/a02u
 #EXTINF:-1 group-title="Intl HD" tvg-logo="https://i.imgur.com/SOh6h5u.jpg" ,El Gourmet HD
-http://200.48.19.140:10021/play/a01d
+http://181.78.7.92:6500/play/a00x/index.m3u8
 #EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/xjh6DW4.jpg" ,EnerGeek Señal 1
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/VQC7HMc.jpg" ,Energeek Señal 2
@@ -166,7 +168,7 @@ https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/EkrdrYa.jpg" ,Golden
 http://160.20.164.171:8001/play/a02y
 #EXTINF:-1 group-title="Intl HD" tvg-logo="https://i.imgur.com/EkrdrYa.jpg" ,Golden HD
-http://45.233.169.25:8000/play/a01d
+http://186.148.184.163:8000/play/a04i
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/CZuJ8ux.jpg" ,GOLTV
 http://168.194.171.33:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/hLSqwj1.jpg" ,Goresam TV HD
@@ -259,6 +261,8 @@ https://servilive.com:3449/live/mlecaroslive.m3u8
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/3LpN6os.jpg" ,Nick
 http://168.194.171.33:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Intl HD" tvg-logo="https://i.imgur.com/3LpN6os.jpg" ,Nick HD
+http://181.78.7.92:6500/play/a071/index.m3u8
 #EXTINF:-1 group-title="Intl SD" tvg-logo="https://i.imgur.com/ryLqv1z.jpg" ,Nick Jr.
 http://160.20.164.171:8001/play/a004
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/D8OY1yv.jpg" ,NorSelva RTV HD
