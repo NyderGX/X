@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.05/01/2023
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.08/01/2023
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,.Yape
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
@@ -133,16 +133,16 @@ http://186.148.184.163:8000/play/a04i
 http://168.194.171.33:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/hLSqwj1.jpg" ,Goresam TV HD
 https://stream.plixitv.live:443/goresamtv/goresamtv/playlist.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ks3Kvxr.jpg" ,HBO Family HD
-http://45.5.118.226:8000/play/a0l5/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ks3Kvxr.jpg" ,HBO Family
+http://201.222.45.70:4000/play/a01u
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ZQBVHdz.jpg" ,HBO HD
 http://45.160.15.130:2909/play/017
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/tgTbR3k.jpg" ,HBO Plus HD
 http://181.175.41.170:8000/play/a0e1
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ceiueWF.jpg" ,HBO Xtreme HD
 http://45.160.15.130:2909/play/020
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WiVNz2y.jpg" ,HBO2 HD
-http://45.228.234.77:4430/play/hbodoshd
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WiVNz2y.jpg" ,HBO2
+http://38.41.8.1:7000/play/a04e
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/49hXyT1.jpg" ,HIStory HD
 http://181.175.41.170:8000/play/a0ig
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lRcNwgS.jpg" ,HIStory2
@@ -195,6 +195,8 @@ http://45.179.164.9:8000/play/a03b/index.m3u8
 http://160.20.164.171:8001/play/a00h
 #EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/pQZectC.jpg" ,Mundo de la Música TV
 https://6362ca6f1fc28.streamlock.net/8078/8078/playlist.m3u8
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/yGQ9lbW.jpg" ,Mytime (Spain)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/tOVXz1q.jpg" ,Música del Recuerdo
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/WXRpsz1.jpg" ,NacionalTV HD
