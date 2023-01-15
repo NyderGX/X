@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.12/01/2023
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.15/01/2023
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,.Donaciones
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/6ZvTaeP.jpg" ,_América TV HD
-http://187.102.208.109:50000/play/a01l/index.m3u8
+http://209.45.3.210:8000/play/a04m/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/zDUzn4i.jpg" ,_ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/A2hzd3o.jpg" ,_ATV+
@@ -18,7 +18,7 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/CHUdVz6.jpg" ,_TVPE
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/NMDikkA.jpg" ,_Willax
-http://168.194.171.33:8000/play/a01s/index.m3u8
+http://170.254.232.177:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/TBhAabc.jpg" ,3ABN KIDS
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/LBlpiqA.jpg" ,Agro TV HD
@@ -62,7 +62,7 @@ https://cloudvideo.servers10.com:8081/8168/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/wLElMRf.jpg" ,Chincha TV HD
 https://tvdatta.com:3548/live/chinchatvlive.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/jwB7uLu.jpg" ,Cinecanal HD
-http://190.187.247.206:8000/play/a09d/index.m3u8
+http://200.4.96.59:8043/play/a0g7/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/d83p3IP.jpg" ,Cinemax HD
 http://45.160.15.130:2909/play/112
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/UoENfxJ.jpg" ,ClipsTV
