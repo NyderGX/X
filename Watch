@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.15/01/2023
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.19/01/2023
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,.Donaciones
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
@@ -49,8 +49,8 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/QNv6wTV.jpg" ,Canal ipe HD
 https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lfzfz0T.jpg" ,Cartoon Network HD
-http://190.131.228.59:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lfzfz0T.jpg" ,Cartoon Network
+http://152.200.181.236:15000/play/a02l
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lsUOcmF.jpg" ,Cartoonito
 http://160.20.164.171:8001/play/a005
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/pBATQXT.jpg" ,Central TV Chosica
@@ -90,7 +90,7 @@ http://181.175.41.170:8000/play/a0gw
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/dWiCLYa.jpg" ,Discovery Kids HD
 http://190.61.102.67:444/play/a00r
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/JfurYRt.jpg" ,Discovery World HD
-http://190.131.228.59:8000/play/a0rn/index.m3u8
+http://190.97.183.204:8000/play/a0qb/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/olNsn8k.jpg" ,Disney Channel HD
 http://186.148.184.163:8000/play/a03s
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/rY1OoQk.jpg" ,Disney Jr.
