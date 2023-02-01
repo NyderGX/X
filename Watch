@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.31/01/2023
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.01/02/2023
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,.Donaciones
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
@@ -9,6 +9,10 @@ http://209.45.3.210:8000/play/a04m/index.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/A2hzd3o.jpg" ,_ATV+
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/r8jrpnk.jpg" ,_Best Cable HD
+https://ca2.inka.net.pe/bestcable/playlist.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/QNv6wTV.jpg" ,_Canal ipe HD
+https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/tOVXz1q.jpg" ,_Cine Club TV HD
 https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/cHLcEpe.jpg" ,_Latina HD
@@ -37,8 +41,6 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 https://ca2.inka.net.pe/mascumbiatvonline/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/4WVwBpf.jpg" ,Best Cable Hatun TV HD
 https://ca2.inka.net.pe/bestcablehatuntv/playlist.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/r8jrpnk.jpg" ,Best Cable HD
-https://ca2.inka.net.pe/bestcable/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/s0dgCW7.jpg" ,Best Cable Music HD
 https://ca2.inka.net.pe/bestcablemusic/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/dtADiWg.jpg" ,Best Cable Sports HD
@@ -47,8 +49,6 @@ https://ca2.inka.net.pe/bestcablesports/playlist.m3u8
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/TUUUyDE.jpg" ,Canal 8 Catacaos
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/QNv6wTV.jpg" ,Canal ipe HD
-https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lfzfz0T.jpg" ,Cartoon Network
 http://181.65.154.170:8000/play/a07d/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lsUOcmF.jpg" ,Cartoonito
@@ -201,8 +201,8 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/WXRpsz1.jpg" ,NacionalTV HD
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Omo7NV5.jpg" ,Nat Geo
-http://168.194.171.33:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Omo7NV5.jpg" ,Nat Geo HD
+http://191.102.106.46:15028/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/g6xiV3y.jpg" ,Nativa HD
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/g6xiV3y.jpg" ,Nativa TV Satipo HD
@@ -308,7 +308,7 @@ https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/9PGQ3zj.jpg" ,TNT HD
 http://181.175.41.170:8000/play/a0g7
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/EWye8CS.jpg" ,Tooncast
-http://181.78.23.118:8000/play/a06t/index.m3u8
+http://190.149.66.90:16000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/NoG8K8f.jpg" ,Top Latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/y1vflaj.jpg" ,Top TV Aguaytia
