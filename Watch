@@ -24,7 +24,7 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/CHUdVz6.jpg" ,_TVPE
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/NMDikkA.jpg" ,_Willax
-http://170.0.233.19:8000/play/a0nd/index.m3u8
+http://181.65.154.170:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/TBhAabc.jpg" ,3ABN KIDS
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/05SPyaD.jpg" ,Animal Planet HD
@@ -122,7 +122,7 @@ http://191.102.106.46:15028/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/3LpN6os.jpg" ,Nick HD
 http://181.78.7.92:6500/play/a071/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ryLqv1z.jpg" ,Nick Jr.
-http://190.27.253.211:8000/play/a05p/index.m3u8
+http://181.78.23.118:8000/play/a02i/index.m3u8
 #EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/e62JJsJ.jpg" ,PlanetaTV Kids
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/e62JJsJ.jpg" ,PlanetaTV Movie
@@ -163,5 +163,3 @@ http://190.149.66.90:16000/play/a02z/index.m3u8
 http://181.175.41.170:8000/play/a0gx
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/EMi2Vt1.jpg" ,Warner Channel HD
 http://45.179.164.9:8000/play/a05c/index.m3u8
-
-### NYDERGX ###
