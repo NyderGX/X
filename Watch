@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.18/02/2023
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.29/03/2023
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,.Donaciones
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/6ZvTaeP.jpg" ,_América TV HD
-http://177.53.153.56:8000/play/a003/index.m3u8
+http://38.43.140.215:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/zDUzn4i.jpg" ,_ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/zDUzn4i.jpg" ,_ATV Sur HD
@@ -14,9 +14,7 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/tOVXz1q.jpg" ,_Cine Club TV HD
 https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/cHLcEpe.jpg" ,_Latina HD
-http://179.43.93.163:8000/play/a04u/index.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/tOVXz1q.jpg" ,_Música del Recuerdo
-https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
+http://38.43.140.215:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/dRxregB.jpg" ,_Panamericana
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/NoG8K8f.jpg" ,_Top Latino
@@ -24,7 +22,7 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/CHUdVz6.jpg" ,_TVPE
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/NMDikkA.jpg" ,_Willax
-http://181.65.154.170:8000/play/a02c/index.m3u8
+http://38.43.140.215:8000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/TBhAabc.jpg" ,3ABN KIDS
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/LBlpiqA.jpg" ,Agro TV HD
@@ -40,15 +38,15 @@ https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/WK2gzHt.jpg" ,Auténtica TV HD
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/sZSQNdP.jpg" ,Best Cable +Cumbia HD
-https://ca2.inka.net.pe/mascumbiatvonline/playlist.m3u8
+https://ca2.inka.net.pe/NoRobar-Mas-Cum-010021001120/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/4WVwBpf.jpg" ,Best Cable Hatun TV HD
 https://ca2.inka.net.pe/bestcablehatuntv/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/r8jrpnk.jpg" ,Best Cable HD
-https://ca2.inka.net.pe/bestcable/playlist.m3u8
+https://ca2.inka.net.pe/NoRobar-BesTv-001120000/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/s0dgCW7.jpg" ,Best Cable Music HD
-https://ca2.inka.net.pe/bestcablemusic/playlist.m3u8
+https://ca2.inka.net.pe/NoRobar-Music-001120/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/dtADiWg.jpg" ,Best Cable Sports HD
-https://ca2.inka.net.pe/bestcablesports/playlist.m3u8
+https://ca2.inka.net.pe/NoRobar-Best-Peru-Tv/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/Qf2tGGw.jpg" ,bhTV HD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/TUUUyDE.jpg" ,Canal 8 Catacaos
@@ -56,7 +54,7 @@ https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/QNv6wTV.jpg" ,Canal ipe HD
 https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lfzfz0T.jpg" ,Cartoon Network
-http://181.65.154.170:8000/play/a07d/index.m3u8
+http://200.60.124.20:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lsUOcmF.jpg" ,Cartoonito
 http://190.149.66.90:16000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/pBATQXT.jpg" ,Central TV Chosica
@@ -74,7 +72,7 @@ http://45.160.15.130:2909/play/112
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/UoENfxJ.jpg" ,ClipsTV
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/K9hCV4z.jpg" ,CNN Español
-http://168.194.171.33:8000/play/a00j/index.m3u8
+http://200.60.124.20:8000/play/a03q/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/JcvHgI4.jpg" ,Conecta2 TV HD
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/shJbLso.jpg" ,Contacto Deportivo
@@ -122,7 +120,7 @@ http://45.160.15.130:2909/play/212
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/pUyFpIE.jpg" ,Euronews España HD
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/PpWQKJi.jpg" ,Exitosa TV HD
-https://cu.onliv3.com/livevd1/user2.m3u8
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/D3fglJC.jpg" ,Fox Sports
 http://181.78.24.67:8010/play/a02b/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/i0TnLYc.jpg" ,FuegoTV
@@ -140,7 +138,7 @@ http://181.78.27.188:5350/play/a00v
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/hLSqwj1.jpg" ,Goresam TV HD
 https://stream.plixitv.live:443/goresamtv/goresamtv/playlist.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ks3Kvxr.jpg" ,HBO Family HD
-http://181.65.154.170:8000/play/a07x/index.m3u8
+http://200.48.19.142:8000/play/a00m
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ZQBVHdz.jpg" ,HBO HD
 http://45.160.15.130:2909/play/017
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/tgTbR3k.jpg" ,HBO Plus HD
@@ -151,8 +149,8 @@ http://45.160.15.130:2909/play/020
 http://190.149.66.90:16000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/49hXyT1.jpg" ,HIStory HD
 http://181.175.41.170:8000/play/a0ig
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lRcNwgS.jpg" ,HIStory2 HD
-http://177.93.50.42:9000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lRcNwgS.jpg" ,HIStory2
+http://181.209.173.10:9000/play/a031/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/BeBl2yZ.jpg" ,Huánuco en VIVO
 https://stmv.panel.grupolimalive.com/antonio/antonio/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/GwIHrj9.jpg" ,Ibiza Global TV
@@ -164,7 +162,7 @@ https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/crDrB4Z.jpg" ,JN19 HD
 https://servilive.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/ERVIayb.jpg" ,Karibeña TV HD
-https://cu.onliv3.com/livevd/user1.m3u8
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/REpfNBn.jpg" ,La Luz TV HD
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/qRIaUmA.jpg" ,La Ribereña Pucallpa
@@ -174,7 +172,7 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/316ulcS.jpg" ,LOTtvplus HD
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/oPBkgFW.jpg" ,Master Televisión
-https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/WBwICZ9.jpg" ,MaticesTV
 http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/dbPc0CG.jpg" ,Mega TV Arequipa HD
@@ -280,7 +278,7 @@ https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/75XdJmO.jpg" ,RselvaTV HD
 https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/U3piGHV.jpg" ,RT Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/sRr1Ph7.jpg" ,RTV Total Yurimaguas
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/7f8yiTs.jpg" ,Sanjuanera TV HD
