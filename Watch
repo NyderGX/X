@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.20/04/2023
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.25/04/2023
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,.Donaciones
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
@@ -10,7 +10,7 @@ https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/zDUzn4i.jpg" ,_ATV Sur HD
 https://
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/A2hzd3o.jpg" ,_ATV+
-https://
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/tOVXz1q.jpg" ,_Cine Club TV HD
 https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/cHLcEpe.jpg" ,_Latina
@@ -68,7 +68,7 @@ http://45.5.119.202:54321/play/a01y/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/UoENfxJ.jpg" ,ClipsTV
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/K9hCV4z.jpg" ,CNN Español
-http://181.78.18.106:8083/play/a05w/index.m3u8
+http://45.5.118.226:8000/play/a0gi/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/JcvHgI4.jpg" ,Conecta2 TV HD
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/shJbLso.jpg" ,Contacto Deportivo
@@ -105,12 +105,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://181.78.7.92:6500/play/a00x/index.m3u8
 #EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/hNTdeDv.jpg" ,EnerGeek Animate
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/VQC7HMc.jpg" ,Energeek Fanpop
-https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
-#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/xjh6DW4.jpg" ,EnerGeek Retro
-https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/M7SEgO7.jpg" ,ESPN HD
-http://45.160.15.130:2909/play/212
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/M7SEgO7.jpg" ,ESPN
+http://45.71.252.67:8000/play/a052/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/pUyFpIE.jpg" ,Euronews España HD
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/PpWQKJi.jpg" ,Exitosa TV HD
@@ -127,16 +123,16 @@ https://pacific.direcnode.com:3715/hybrid/play.m3u8
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/EkrdrYa.jpg" ,Golden HD
 http://186.148.184.163:8000/play/a04i
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/CZuJ8ux.jpg" ,GOLTV
-http://181.78.27.188:5350/play/a00v
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/CZuJ8ux.jpg" ,GOLTV HD
+http://190.119.78.170:8000/play/a0bg/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ks3Kvxr.jpg" ,HBO Family HD
-http://200.48.19.142:8000/play/a00m
+http://190.187.192.89:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ZQBVHdz.jpg" ,HBO HD
-http://45.160.15.130:2909/play/017
+http://190.187.192.89:8000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/tgTbR3k.jpg" ,HBO Plus HD
-http://181.175.41.170:8000/play/a0e1
+http://45.170.225.212:58001/play/a028/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ceiueWF.jpg" ,HBO Xtreme HD
-http://45.160.15.130:2909/play/020
+http://190.187.192.89:8000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WiVNz2y.jpg" ,HBO2 HD
 http://190.149.66.90:16000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/49hXyT1.jpg" ,HIStory HD
@@ -170,7 +166,7 @@ https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/PakpjCd.jpg" ,Moni TV *
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WlFwaI9.jpg" ,MTV HD
-http://45.179.164.9:8000/play/a03b/index.m3u8
+http://45.170.225.212:58001/play/a01z/index.m3u8
 #EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/pQZectC.jpg" ,Mundo de la Música TV
 https://6362ca6f1fc28.streamlock.net/8078/8078/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/yGQ9lbW.jpg" ,Mytime (Spain)
@@ -240,11 +236,11 @@ https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/7f8yiTs.jpg" ,Sanjuanera TV HD
 https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/fQqFQLf.jpg" ,Sony Channel HD
-http://45.179.164.9:8000/play/a05d/index.m3u8
+http://45.170.225.212:58001/play/a01s/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/VYZI6gU.jpg" ,Space HD
-http://45.179.164.9:8000/play/a06g/index.m3u8
+http://45.170.225.212:58001/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/I2jweSz.jpg" ,Star Channel HD
-http://45.179.164.9:8000/play/a05b/index.m3u8
+http://45.170.225.212:58001/play/a01q/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Nttg5M8.jpg" ,Studio Universal HD
 http://181.175.41.170:8000/play/a0f6
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/Fc6zWvY.jpg" ,Sumac TV
@@ -302,4 +298,4 @@ https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png" ,W TV HD
 https://live.obslivestream.com/wtv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/EMi2Vt1.jpg" ,Warner Channel HD
-http://45.179.164.9:8000/play/a05c/index.m3u8
+http://45.170.225.212:58001/play/a01r/index.m3u8
