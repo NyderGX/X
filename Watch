@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.25/04/2023
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.29 de Abril 2023
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,.Donaciones
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
@@ -7,8 +7,6 @@ https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
 http://179.43.82.250:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/zDUzn4i.jpg" ,_ATV HD
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/zDUzn4i.jpg" ,_ATV Sur HD
-https://
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/A2hzd3o.jpg" ,_ATV+
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/tOVXz1q.jpg" ,_Cine Club TV HD
@@ -81,14 +79,16 @@ https://live.obslivestream.com/crtvmux/index.m3u8
 https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/2WU4gbi.jpg" ,Cultura 24 TV HD
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/QLrobgP.jpg" ,Discovery Channel HD
-http://181.175.41.170:8000/play/a0gs
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/eYGsN3y.jpg" ,Discovery H&H HD
-http://181.175.41.170:8000/play/a0g9
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LC1TrFx.jpg" ,Discovery ID HD
-http://181.175.41.170:8000/play/a0gw
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/QLrobgP.jpg" ,Discovery Channel
+http://168.181.122.234:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/eYGsN3y.jpg" ,Discovery H&H
+http://45.228.234.162:24000/play/a072/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LC1TrFx.jpg" ,Discovery ID
+http://190.43.232.72:8000/play/a07o/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/dWiCLYa.jpg" ,Discovery Kids HD
 http://191.102.106.46:15028/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/KNoNPA6.jpg" ,Discovery Turbo
+http://209.45.80.116:8000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/JfurYRt.jpg" ,Discovery World HD
 http://177.93.45.108:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/olNsn8k.jpg" ,Disney Channel HD
@@ -101,8 +101,8 @@ https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/zm8NqNL.jpg" ,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/SOh6h5u.jpg" ,El Gourmet HD
-http://181.78.7.92:6500/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/SOh6h5u.jpg" ,El Gourmet
+http://200.24.141.2:4000/play/a2mp/index.m3u8
 #EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/hNTdeDv.jpg" ,EnerGeek Animate
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/M7SEgO7.jpg" ,ESPN
