@@ -123,12 +123,12 @@ https://pacific.direcnode.com:3715/hybrid/play.m3u8
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/EkrdrYa.jpg" ,Golden HD
 http://186.148.184.163:8000/play/a04i
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/CZuJ8ux.jpg" ,GOLTV 2
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/CZuJ8ux.jpg" ,GOLPERU 1 HD
+http://191.52.214.5:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/CZuJ8ux.jpg" ,GOLPERU 2 HD
 http://190.43.92.59:8000/play/a0oq/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/CZuJ8ux.jpg" ,GOLTV HD
 http://190.43.92.2:8000/play/a0ok/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/CZuJ8ux.jpg" ,GOLTV PERU HD
-http://191.52.214.5:8000/play/a03m/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ks3Kvxr.jpg" ,HBO Family HD
 http://190.187.192.89:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ZQBVHdz.jpg" ,HBO HD
