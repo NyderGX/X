@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.29 de Abril 2023
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.01 de Mayo 2023
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,.Donaciones
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
@@ -84,7 +84,7 @@ http://168.181.122.234:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/eYGsN3y.jpg" ,Discovery H&H
 http://45.228.234.162:24000/play/a072/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LC1TrFx.jpg" ,Discovery ID
-http://190.43.232.72:8000/play/a07o/index.m3u8
+http://200.4.217.18:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/dWiCLYa.jpg" ,Discovery Kids HD
 http://191.102.106.46:15028/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/KNoNPA6.jpg" ,Discovery Turbo
@@ -106,7 +106,7 @@ http://200.24.141.2:4000/play/a2mp/index.m3u8
 #EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/hNTdeDv.jpg" ,EnerGeek Animate
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/M7SEgO7.jpg" ,ESPN
-http://45.71.252.67:8000/play/a052/index.m3u8
+http://45.170.241.28:4000/play/a00u/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/pUyFpIE.jpg" ,Euronews España HD
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/PpWQKJi.jpg" ,Exitosa TV HD
@@ -123,8 +123,12 @@ https://pacific.direcnode.com:3715/hybrid/play.m3u8
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/EkrdrYa.jpg" ,Golden HD
 http://186.148.184.163:8000/play/a04i
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/CZuJ8ux.jpg" ,GOLTV 2
+http://190.43.92.59:8000/play/a0oq/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/CZuJ8ux.jpg" ,GOLTV HD
-http://190.119.78.170:8000/play/a0bg/index.m3u8
+http://190.43.92.2:8000/play/a0ok/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/CZuJ8ux.jpg" ,GOLTV PERU HD
+http://191.52.214.5:8000/play/a03m/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ks3Kvxr.jpg" ,HBO Family HD
 http://190.187.192.89:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ZQBVHdz.jpg" ,HBO HD
@@ -177,10 +181,10 @@ http://191.102.106.46:15028/play/a00z/index.m3u8
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/g6xiV3y.jpg" ,Nativa TV Satipo HD
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/3LpN6os.jpg" ,Nick HD
-http://181.78.7.92:6500/play/a071/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/3LpN6os.jpg" ,Nick
+http://45.169.38.226:8000/play/a0db/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ryLqv1z.jpg" ,Nick Jr.
-http://186.3.76.238:8000/play/a0ab/index.m3u8
+http://45.170.241.28:4000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/D8OY1yv.jpg" ,NorSelva RTV HD
 https://live.obslivestream.com/norselvatv/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/i2ydmbg.jpg" ,Oasis RTV HD
