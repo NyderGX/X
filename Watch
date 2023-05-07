@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.01 de Mayo 2023
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.07 de Mayo 2023
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,.Donaciones
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd.mp4
@@ -52,21 +52,21 @@ http://168.121.46.90:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lfzfz0T.jpg" ,Cartoon Network
 http://138.59.177.34:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lsUOcmF.jpg" ,Cartoonito
-http://190.149.66.90:16000/play/a00q/index.m3u8
+http://45.228.234.162:24000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/pBATQXT.jpg" ,Central TV Chosica
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/2K9lwTn.jpg" ,CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/wLElMRf.jpg" ,Chincha TV HD
 https://tvdatta.com:3548/live/chinchatvlive.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/jwB7uLu.jpg" ,Cinecanal HD
-http://181.78.12.119:16123/play/ch10/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/jwB7uLu.jpg" ,Cinecanal
+http://191.97.14.56:8045/play/a005/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/d83p3IP.jpg" ,Cinemax
 http://45.5.119.202:54321/play/a01y/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/UoENfxJ.jpg" ,ClipsTV
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/K9hCV4z.jpg" ,CNN Español
-http://45.5.118.226:8000/play/a0gi/index.m3u8
+http://181.78.75.11:9500/play/a01s/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/JcvHgI4.jpg" ,Conecta2 TV HD
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/shJbLso.jpg" ,Contacto Deportivo
@@ -84,17 +84,21 @@ http://168.181.122.234:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/eYGsN3y.jpg" ,Discovery H&H
 http://45.228.234.162:24000/play/a072/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LC1TrFx.jpg" ,Discovery ID
-http://200.4.217.18:8000/play/a038/index.m3u8
+http://177.93.60.43:5801/play/a03j/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/dWiCLYa.jpg" ,Discovery Kids HD
 http://191.102.106.46:15028/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/KNoNPA6.jpg" ,Discovery Turbo
-http://209.45.80.116:8000/play/a03r/index.m3u8
+http://181.78.75.11:9500/play/a015/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/JfurYRt.jpg" ,Discovery World HD
 http://177.93.45.108:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/JfurYRt.jpg" ,Discovery World HD
+http://186.101.207.117:9955/play/a0c7/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/JfurYRt.jpg" ,Discovery World HD
+http://181.78.24.187:8006/play/a087/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/olNsn8k.jpg" ,Disney Channel HD
 http://186.148.184.163:8000/play/a03s
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/rY1OoQk.jpg" ,Disney Jr.
-http://190.149.66.90:16000/play/a00r/index.m3u8
+http://181.189.243.198:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/ObX3SWY.jpg" ,DMJ TV HD
 https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/s5fV1oi.jpg" ,Doble C TV HD
@@ -129,16 +133,16 @@ http://191.52.214.5:8000/play/a03m/index.m3u8
 http://190.43.92.59:8000/play/a0oq/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/CZuJ8ux.jpg" ,GOLTV HD
 http://190.43.92.2:8000/play/a0ok/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ks3Kvxr.jpg" ,HBO Family HD
-http://190.187.192.89:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ZQBVHdz.jpg" ,HBO HD
-http://190.187.192.89:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ZQBVHdz.jpg" ,HBO
+http://190.14.251.57:8080/play/a0mj/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ks3Kvxr.jpg" ,HBO Family
+http://45.184.111.158:8000/play/a0e4/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/tgTbR3k.jpg" ,HBO Plus HD
 http://45.170.225.212:58001/play/a028/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ceiueWF.jpg" ,HBO Xtreme HD
-http://190.187.192.89:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WiVNz2y.jpg" ,HBO2 HD
-http://190.149.66.90:16000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ceiueWF.jpg" ,HBO Xtreme
+http://190.14.251.57:8080/play/a0mh/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WiVNz2y.jpg" ,HBO2
+http://190.14.251.57:8080/play/a0mf/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/49hXyT1.jpg" ,HIStory HD
 http://181.175.41.170:8000/play/a0ig
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lRcNwgS.jpg" ,HIStory2
@@ -260,7 +264,7 @@ https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/9PGQ3zj.jpg" ,TNT HD
 http://181.175.41.170:8000/play/a0g7
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/EWye8CS.jpg" ,Tooncast
-http://190.149.66.90:16000/play/a02z/index.m3u8
+http://45.170.241.28:4000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/y1vflaj.jpg" ,Top TV Aguaytia
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/MweQsPw.jpg" ,Trivu HD
