@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.15 de Mayo
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.16 de Mayo
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,.Invítame un cafecito ♥
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
@@ -8,17 +8,19 @@ http://179.43.82.250:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/zDUzn4i.jpg" ,_ATV HD
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/A2hzd3o.jpg" ,_ATV+
-https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/tOVXz1q.jpg" ,_Cine Club TV HD
 https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/NZoMyuo.jpg" ,_DirecTV Sports
 http://190.119.178.46:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/JfurYRt.jpg" ,_Discovery World HD
-http://216.122.181.10:8081/play/a0lx/index.m3u8
+http://181.78.24.187:8006/play/a087/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/JfurYRt.jpg" ,_Discovery World HD
+http://190.43.92.151:8000/play/a0nx/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/CZuJ8ux.jpg" ,_GOLPERU HD
 http://191.52.214.5:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/CZuJ8ux.jpg" ,_GOLTV HD
-http://190.43.92.2:8000/play/a0ok/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/CZuJ8ux.jpg" ,_GOLTV
+http://181.224.161.138:1010/play/a07r/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/cHLcEpe.jpg" ,_Latina
 http://179.43.82.250:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/dRxregB.jpg" ,_Panamericana
@@ -27,16 +29,16 @@ http://179.43.82.250:8000/play/a020/index.m3u8
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/CHUdVz6.jpg" ,_TVPE
 http://179.43.82.250:8000/play/a08s/index.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/TBhAabc.jpg" ,3ABN KIDS
-https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/NMDikkA.jpg" ,_Willax
 http://179.43.82.250:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/TBhAabc.jpg" ,3ABN KIDS
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/LBlpiqA.jpg" ,Agro TV HD
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/HMPUbq8.jpg" ,Andes TV HD
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/05SPyaD.jpg" ,Animal Planet
-http://8.242.126.186:7000/play/a00r/index.m3u8
+http://45.170.241.196:4000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/u9VslRX.jpg" ,AsiriTV HD
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/WK2gzHt.jpg" ,Auténtica TV HD
@@ -98,7 +100,7 @@ http://45.170.225.210:58001/play/a03c/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/KNoNPA6.jpg" ,Discovery Turbo
 http://181.78.75.11:9500/play/a015/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/olNsn8k.jpg" ,Disney Channel
-http://45.5.117.182:8000/play/a0it/index.m3u8
+http://45.5.119.155:8000/play/a0i8/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/rY1OoQk.jpg" ,Disney Jr.
 http://181.189.243.198:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/ObX3SWY.jpg" ,DMJ TV HD
@@ -128,11 +130,11 @@ https://pacific.direcnode.com:3715/hybrid/play.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/sZmv6K3.jpg" ,Genios TV HD
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/EkrdrYa.jpg" ,Golden
-http://45.5.117.182:8000/play/a0go/index.m3u8
+http://45.5.119.155:8000/play/a0jv/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ZQBVHdz.jpg" ,HBO
 http://190.14.251.57:8080/play/a0mj/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ks3Kvxr.jpg" ,HBO Family
-http://8.242.126.186:7000/play/a050/index.m3u8
+http://45.189.117.32:7075/play/a00q/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/tgTbR3k.jpg" ,HBO Plus
 http://45.189.117.32:7075/play/a0l7/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ceiueWF.jpg" ,HBO Xtreme
@@ -244,17 +246,17 @@ http://45.170.241.211:4000/play/a00w/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/VYZI6gU.jpg" ,Space
 http://45.189.117.32:7075/play/a02d/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/I2jweSz.jpg" ,Star Channel
-http://45.5.117.182:8000/play/a0iu/index.m3u8
+http://45.170.243.23:4000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Nttg5M8.jpg" ,Studio Universal
-http://45.5.117.182:8000/play/a0j7/index.m3u8
+http://45.170.243.23:4000/play/a018/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/Fc6zWvY.jpg" ,Sumac TV
 https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
 #EXTINF:-1 group-title="Perú" ,Super TV HD
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/Etm4OTn.jpg" ,Telecolor Yurimaguas TV HD
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/YE4Clj6.jpg" ,Telemundo HD
-http://181.175.41.170:8000/play/a0fd
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/YE4Clj6.jpg" ,Telemundo
+http://45.170.243.23:4000/play/a006/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/asnlHdr.jpg" ,Televisión Tarapoto HD
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/9PGQ3zj.jpg" ,TNT
