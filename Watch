@@ -1,30 +1,58 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.02 de junio
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.10 de julio
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,.Invítame un cafecito ♥
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/6ZvTaeP.jpg" ,_América TV
-http://190.43.92.145:8000/play/a0vu/index.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/zDUzn4i.jpg" ,_ATV HD
-https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/6ZvTaeP.jpg" ,_América TV HD
+http://45.179.164.30:8000/play/a0ck/index.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/zDUzn4i.jpg" ,_ATV
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv_480.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/A2hzd3o.jpg" ,_ATV+
-https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/tOVXz1q.jpg" ,_Cine Club TV HD (ERROR)
-https://servilive.com:3176/live/cineclublive.m3u8
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/NZoMyuo.jpg" ,_DirecTV Sports
-http://45.170.225.210:58001/play/a04g/index.m3u8
+http://45.179.164.30:8000/play/a0e5/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/JfurYRt.jpg" ,_Discovery World HD
-http://45.190.13.50:8000/play/a035/index.m3u8
+http://45.183.220.35:8001/play/a09e/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/CZuJ8ux.jpg" ,_GOLTV
 http://181.224.161.138:1010/play/a07r/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/cHLcEpe.jpg" ,_Latina
-http://131.196.12.237:8000/play/a08m/index.m3u8
+http://45.71.252.29:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/dRxregB.jpg" ,_Panamericana
-https://cdnh71.iblups.com/hls/ptv2.m3u8
+https://cdnh75.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/CHUdVz6.jpg" ,_TVPE
-https://d3rohd087xr33u.cloudfront.net/out/v1/ffafd62d591241af9ae8fcb5096e84de/index.m3u8
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_1.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/NMDikkA.jpg" ,_Willax
 http://191.97.60.193:10000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="636e83511fa9600007e5ae19" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" ,24h Anime Kids
+https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="6254598f5083f800076d8563" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" ,24h Bob Esponja
+https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="5dd7ea2aeab5230009986735" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" ,24h Cine Romance
+https://i.mjh.nz/PlutoTV/5dd7ea2aeab5230009986735-alt.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="5ddc4e8bcbb9010009b4e84f" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" ,24h Cine Suspenso
+https://i.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="5dcddf1ed95e740009fef7ab" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" ,24h Cine Terror
+https://i.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="626c2ed933a2890007e91422" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" ,24h Death Note
+https://i.mjh.nz/PlutoTV/626c2ed933a2890007e91422-alt.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="5ebaccf1734aaf0007142c86" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" ,24h FailArmy
+https://i.mjh.nz/PlutoTV/5ebaccf1734aaf0007142c86-alt.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="620ff0a01f9e8700076c6f9d" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" ,24h iCarly
+https://i.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="62d08af527ce19000731eaa0" tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png" ,24h La Familia del Barrio
+https://i.mjh.nz/PlutoTV/62d08af527ce19000731eaa0-alt.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="6322099c822bbc00074857db" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" ,24h Los Padrinos Mágicos
+https://i.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="5ddd7c348520b40009c347e2" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" ,24h Nick Clásico
+https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" ,24h Nick Jr. Club
+https://i.mjh.nz/PlutoTV/5ddd7cb2cbb9010009b4fe32-alt.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="5fab09a8749b1a00077d35d2" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" ,24h Nick Teen
+https://i.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="609ae5cd48d3200007b0a98e" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" ,24h South Park
+https://i.mjh.nz/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" ,24h Wipe Out
+https://i.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/TBhAabc.jpg" ,3ABN KIDS
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/LBlpiqA.jpg" ,Agro TV HD
@@ -52,15 +80,19 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/TUUUyDE.jpg" ,Canal 8 Catacaos
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/QNv6wTV.jpg" ,Canal ipe HD
-http://168.121.46.90:8000/play/a05m/index.m3u8
+https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index_1.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lfzfz0T.jpg" ,Cartoon Network
 http://190.92.7.19:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="62310d5a5dc9550007c6f580" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" ,CBS News
+https://i.mjh.nz/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/pBATQXT.jpg" ,Central TV Chosica
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/2K9lwTn.jpg" ,CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/wLElMRf.jpg" ,Chincha TV HD
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/wLElMRf.jpg" ,Chincha TV HD (ERROR)
 https://tvdatta.com:3548/live/chinchatvlive.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/tOVXz1q.jpg" ,Cine Club TV HD (ERROR)
+https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/jwB7uLu.jpg" ,Cinecanal
 http://190.92.7.19:8000/play/a03c/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/d83p3IP.jpg" ,Cinemax
@@ -98,7 +130,7 @@ https://pacific.direcnode.com:3715/hybrid/play.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/sZmv6K3.jpg" ,Genios TV HD
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ks3Kvxr.jpg" ,HBO Family
-http://131.196.12.237:19000/play/a07x/index.m3u8
+http://200.123.15.181:6011/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/GwIHrj9.jpg" ,Ibiza Global TV
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/tbLYA4O.jpg" ,Identidad TV HD
@@ -116,7 +148,7 @@ https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/dbPc0CG.jpg" ,Mega TV Arequipa HD
 https://hls.servidor.stream/storage/megatv.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/ks2vkba.jpg" ,Mega TV Jaen HD
-https://tv.portalexpress.es:3399/hybrid/play.m3u8
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/nZnoDa1.jpg" ,Memorias TV
 https://mediacp.us:8081/8002/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/Wa31xve.jpg" ,Miel TV HD
