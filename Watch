@@ -15,8 +15,12 @@ https://i.mjh.nz/PlutoTV/1619d5e6a093e7c0007489211-alt.m3u8
 https://i.mjh.nz/PlutoTV/15ebac49ce4dc8b00078b23bc-alt.m3u8
 #EXTINF:-1 group-title="Comedia" tvg-id="633dc8684bf50b00074a46b1" tvg-logo="https://images.pluto.tv/channels/633dc8684bf50b00074a46b1/colorLogoPNG.png" ,Backdoor
 https://i.mjh.nz/PlutoTV/1633dc8684bf50b00074a46b1-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="63" tvg-name="Bajo Cero TV" tvg-logo="https://cdn.m3u.cl/logo/63_Bajo_Cero_TV.png" ,Bajo Cero TV | CL
+https://stmv5.voxtvhd.com.br/bajocerotv/bajocerotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Kids" tvg-id="5f29ada4bdaebd000708d49d" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" ,Barney
 https://i.mjh.nz/PlutoTV/15f29ada4bdaebd000708d49d-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://cdn.m3u.cl/logo/38_Best_Cable_Music.jpg" ,Best Cable Music | PE
+https://mi.godo.net.pe/best-Music-00112000050/index.m3u8?token=e0a18bf6735f8e15846914ed33e6ca41deb7efaf-e2c72e45701a92d4e8a3c20a03ecc95a-1696000579-1695989779&PlaylistM3UCL
 #EXTINF:-1 group-title="Entretenimiento" tvg-id="63eb907651f5d000085e4778" tvg-logo="https://images.pluto.tv/channels/63eb907651f5d000085e4778/colorLogoPNG.png" ,Best of The Drew Barrymore Show
 https://i.mjh.nz/PlutoTV/163eb907651f5d000085e4778-alt.m3u8
 #EXTINF:-1 group-title="Retro" tvg-id="63eb93a1c111bc0008fe6f5b" tvg-logo="https://images.pluto.tv/channels/63eb93a1c111bc0008fe6f5b/colorLogoPNG.png" ,Beverly Hills 90210
@@ -27,8 +31,20 @@ https://i.mjh.nz/PlutoTV/1632119a92c3b880007d3f5dc-alt.m3u8
 https://i.mjh.nz/PlutoTV/16254598f5083f800076d8563-alt.m3u8
 #EXTINF:-1 group-title="Competencia" tvg-id="6099600015e88c0007ecda25" tvg-logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png" ,Boom
 https://i.mjh.nz/PlutoTV/16099600015e88c0007ecda25-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="1075" tvg-name="Cadena Elite" tvg-logo="https://cdn.m3u.cl/logo/1075_Cadena_Elite.png" ,Cadena Elite | ES
+https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="37" tvg-name="Canal 38" tvg-logo="https://cdn.m3u.cl/logo/37_Canal_38.png" ,Canal 38 | CR
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1062" tvg-name="Canal VM Latino" tvg-logo="https://cdn.m3u.cl/logo/1062_Canal_VM_Latino.png" ,Canal VM Latino | CR
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1221" tvg-name="Cantina TV" tvg-logo="https://cdn.m3u.cl/logo/1221_Cantina_TV.png" ,Cantina TV | VE
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Anime & Gaming" tvg-id="64666345f3f5b1000882bfb4" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" ,Captain Tsubasa
 https://i.mjh.nz/PlutoTV/164666345f3f5b1000882bfb4-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="1127" tvg-name="Carolina TV 2" tvg-logo="https://cdn.m3u.cl/logo/1127_Carolina_TV_2.png" ,Carolina TV 2 | CL
+https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://cdn.m3u.cl/logo/27_Carolina_TV.png" ,Carolina TV | CL
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Investigación" tvg-id="6109a9f5531b840007a4a187" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" ,Cazador de Homicidas
 https://i.mjh.nz/PlutoTV/16109a9f5531b840007a4a187-alt.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-id="62310d5a5dc9550007c6f580" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" ,CBS News
@@ -47,10 +63,16 @@ https://i.mjh.nz/PlutoTV/15ffcc21a432945000762d06b-alt.m3u8
 https://i.mjh.nz/PlutoTV/1609ae5cd48d3200007b0a98e-alt.m3u8
 #EXTINF:-1 group-title="Música" tvg-id="5f85ca40eda1b10007b967cd" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" ,Conciertos por Stingray
 https://i.mjh.nz/PlutoTV/15f85ca40eda1b10007b967cd-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://cdn.m3u.cl/logo/16_Conecta_TV.png" ,Conecta TV | MX
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Curiosidad" tvg-id="6419ab7c9189ce000865a469" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" ,COPS
 https://i.mjh.nz/PlutoTV/16419ab7c9189ce000865a469-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="145" tvg-name="Corazon Llanero" tvg-logo="https://cdn.m3u.cl/logo/145_Corazon_Llanero.png" ,Corazon Llanero | VE
+https://vcp.myplaytv.com/corazonllanero/corazonllanero/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Series" tvg-id="63eb9255c111bc0008fe6ec4" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" ,CSI: Miami
 https://i.mjh.nz/PlutoTV/163eb9255c111bc0008fe6ec4-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="1449" tvg-name="Dance Floor TV" tvg-logo="https://cdn.m3u.cl/logo/1449_Dance_Floor_TV.png" ,Dance Floor TV | BR
+https://srv3.zcast.com.br/andre3354/andre3354/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Comedia" tvg-id="62d0895ebe7a970008785244" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" ,Daria
 https://i.mjh.nz/PlutoTV/162d0895ebe7a970008785244-alt.m3u8
 #EXTINF:-1 group-title="Fútbol" tvg-id="64b02bbd7d93410008fdae60" tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" ,DAZN Women's Football
@@ -59,60 +81,102 @@ https://i.mjh.nz/PlutoTV/164b02bbd7d93410008fdae60-alt.m3u8
 https://i.mjh.nz/PlutoTV/1626c2ed933a2890007e91422-alt.m3u8
 #EXTINF:-1 group-title="Competencia" tvg-id="6495af324c014a000842e923" tvg-logo="https://images.pluto.tv/channels/6495af324c014a000842e923/colorLogoPNG.png" ,Desafío Super Humanos
 https://i.mjh.nz/PlutoTV/16495af324c014a000842e923-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="29" tvg-name="DJ Loncho TV" tvg-logo="https://cdn.m3u.cl/logo/29_DJ_Loncho_TV.png" ,DJ Loncho TV | CL
+https://srv6.zcast.com.br/alonso3146/alonso3146/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Curiosidad" tvg-id="5f9992c685a2a80007fa414a" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" ,Dog el cazarrecompensas
 https://i.mjh.nz/PlutoTV/15f9992c685a2a80007fa414a-alt.m3u8
 #EXTINF:-1 group-title="Curiosidad" tvg-id="61099f2b40d0640007fc5aa2" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" ,El Encantador de Perros
 https://i.mjh.nz/PlutoTV/161099f2b40d0640007fc5aa2-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="324" tvg-name="El Galpon 80" tvg-logo="https://cdn.m3u.cl/logo/324_El_Galpon_80.png" ,El Galpon 80 | CL
+https://stmv5.voxtvhd.com.br/ferchile/ferchile/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Kids" tvg-id="5f4d3d06fb60d8000781fce8" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" ,El Reino Infantil
 https://i.mjh.nz/PlutoTV/15f4d3d06fb60d8000781fce8-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="1496" tvg-name="El Sol Network TV" tvg-logo="https://cdn.m3u.cl/logo/1496_El_Sol_Network_TV.png" ,El Sol Network TV | US
+https://server40.servistreaming.com:3031/live/elsolnetworklive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Curiosidad" tvg-id="5f23102d5e239d00074b092a" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" ,Empeños a lo bestia
 https://i.mjh.nz/PlutoTV/15f23102d5e239d00074b092a-alt.m3u8
 #EXTINF:-1 group-title="Anime & Gaming" tvg-id="5fb554d87a0c480007c8dada" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" ,ESR 24/7
 https://i.mjh.nz/PlutoTV/15fb554d87a0c480007c8dada-alt.m3u8
 #EXTINF:-1 group-title="Películas" tvg-id="5e972a21ad709d00074195ba" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" ,Estrellas de Acción
 https://i.mjh.nz/PlutoTV/15e972a21ad709d00074195ba-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="1312" tvg-name="Eternal Metal" tvg-logo="https://cdn.m3u.cl/logo/1312_Eternal_Metal.png" ,Eternal Metal | CL
+https://vdo.panelstreaming.live:3261/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="796" tvg-name="Euro Indie Music" tvg-logo="https://cdn.m3u.cl/logo/796_Euro_Indie_Music.png" ,Euro Indie Music | GB
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Noticias" tvg-id="619d59b7cbef25000728221c" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" ,Euronews Español
 https://i.mjh.nz/PlutoTV/1619d59b7cbef25000728221c-alt.m3u8
 #EXTINF:-1 group-title="Comedia" tvg-id="5ebaccf1734aaf0007142c86" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" ,FailArmy
 https://i.mjh.nz/PlutoTV/15ebaccf1734aaf0007142c86-alt.m3u8
 #EXTINF:-1 group-title="Estilo de Vida" tvg-id="63974ebedcd9100008c2f59c" tvg-logo="https://images.pluto.tv/channels/63974ebedcd9100008c2f59c/colorLogoPNG.png" ,Fashion TV
 https://i.mjh.nz/PlutoTV/163974ebedcd9100008c2f59c-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="1219" tvg-name="Fiesta Max TV" tvg-logo="https://cdn.m3u.cl/logo/1219_Fiesta_Max_TV.png" ,Fiesta Max TV | VE
+http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1277" tvg-name="Flash - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1277_Flash___Freetv_com.png" ,Flash - Freetv.com | US
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1008" tvg-name="FM Hit" tvg-logo="https://cdn.m3u.cl/logo/1008_FM_Hit.png" ,FM Hit | CL
+https://6362ca6f1fc28.streamlock.net/radiofmhit/radiofmhit/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1181" tvg-name="Freestyledjs" tvg-logo="https://cdn.m3u.cl/logo/1181_Freestyledjs.png" ,Freestyledjs | CL
+https://freestyledjs.ddns.net/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Deportes" tvg-id="6144d313b34fbf0007107714" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" ,FUEL TV
 https://i.mjh.nz/PlutoTV/16144d313b34fbf0007107714-alt.m3u8
 #EXTINF:-1 group-title="Pluto TV" tvg-id="5e793a7cfbdf780007f7eb75" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" ,Guía de canales
 https://i.mjh.nz/PlutoTV/15e793a7cfbdf780007f7eb75-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://cdn.m3u.cl/logo/41_Hatun_TV.jpg" ,Hatun TV | PE
+https://mi.godo.net.pe/Best00Hatum-0032101002/index.m3u8?token=bac16f8fe1d988a82e2077bfca45e1a29eab1d09-20fd168079ba17eb3f588267bdb38172-1696000662-1695989862&PlaylistM3UCL
 #EXTINF:-1 group-title="Retro" tvg-id="631fb6be21b7440007b9f606" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" ,Hechizada
 https://i.mjh.nz/PlutoTV/1631fb6be21b7440007b9f606-alt.m3u8
 #EXTINF:-1 group-title="Competencia" tvg-id="6095ad97351eb0000754c1e6" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" ,Hells Kitchen
 https://i.mjh.nz/PlutoTV/16095ad97351eb0000754c1e6-alt.m3u8
 #EXTINF:-1 group-title="Curiosidad" tvg-id="5f4d3696d938c900072679fd" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" ,Historias de Ultratumba
 https://i.mjh.nz/PlutoTV/15f4d3696d938c900072679fd-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://cdn.m3u.cl/logo/30_Ibiza_Global_TV.png" ,Ibiza Global TV | ES
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Curiosidad" tvg-id="62154548a2be360007cb02f0" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" ,Ice Pilots
 https://i.mjh.nz/PlutoTV/162154548a2be360007cb02f0-alt.m3u8
+#EXTINF:-1 group-title="Estilo de Vida" tvg-id="ESBC3500002PW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" ,Ideas en 5 Minutos
+https://i.mjh.nz/SamsungTVPlus/ESBC3500002PW.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="64ff26233efb5100082eeb2e" tvg-logo="https://images.pluto.tv/channels/64ff26233efb5100082eeb2e/colorLogoPNG.png" ,Infierno Sobre Ruedas
 https://i.mjh.nz/PlutoTV/164ff26233efb5100082eeb2e-alt.m3u8
 #EXTINF:-1 group-title="Competencia" tvg-id="615b9855c6b58b000724477f" tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png" ,Iron Chef
 https://i.mjh.nz/PlutoTV/1615b9855c6b58b000724477f-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://cdn.m3u.cl/logo/929_Italianissimo.png" ,Italianissimo | VE
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Deportes" tvg-id="63f7e3f9dff38e00082a57af" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" ,ITV Deportes
 https://i.mjh.nz/PlutoTV/163f7e3f9dff38e00082a57af-alt.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-id="ESBC2700008SK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" ,Just For Laughs
+https://i.mjh.nz/SamsungTVPlus/ESBC2700008SK.m3u8
 #EXTINF:-1 group-title="Música" tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" ,Karaoke por Stingray
 https://i.mjh.nz/PlutoTV/15f85cf621d6d2200079f1de0-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="1338" tvg-name="Karavana TV" tvg-logo="https://cdn.m3u.cl/logo/1338_Karavana_TV.png" ,Karavana TV | CL
+http://video.karavanatv.com:8081/live/karavanaweb/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Teen" tvg-id="5fcea93ffcf94500071c4b2f" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" ,Kenan y Kel
 https://i.mjh.nz/PlutoTV/15fcea93ffcf94500071c4b2f-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="782" tvg-name="Kpop TV" tvg-logo="https://cdn.m3u.cl/logo/782_Kpop_TV.jpg" ,Kpop TV | BR
+https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png" ,La Chilena TV | CL
+https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Comedia" tvg-id="62d08af527ce19000731eaa0" tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png" ,La Familia del Barrio
 https://i.mjh.nz/PlutoTV/162d08af527ce19000731eaa0-alt.m3u8
 #EXTINF:-1 group-title="Fútbol" tvg-id="62d816fcf24d280008762ee9" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" ,La Liga Premier | Paramount+
 https://i.mjh.nz/PlutoTV/162d816fcf24d280008762ee9-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="889" tvg-name="La Sabrosura TV" tvg-logo="https://cdn.m3u.cl/logo/889_La_Sabrosura_TV.png" ,La Sabrosura TV | CL
+https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Novelas" tvg-id="63211ba9cad976000794f988" tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" ,La Selección
 https://i.mjh.nz/PlutoTV/163211ba9cad976000794f988-alt.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="5f9996533c9de3000759ccb5" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" ,Las Pistas de Blue
 https://i.mjh.nz/PlutoTV/15f9996533c9de3000759ccb5-alt.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="63dd5d7a4e83e700088fbca8" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" ,Las Tortugas Ninja
 https://i.mjh.nz/PlutoTV/163dd5d7a4e83e700088fbca8-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://cdn.m3u.cl/logo/904_Latin_Zone_TV.png" ,Latin Zone TV | US
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="996" tvg-name="Latinos Radio" tvg-logo="https://cdn.m3u.cl/logo/996_Latinos_Radio.png" ,Latinos Radio ✪ | CL
+https://stmv5.voxtvhd.com.br/latinosmedia/latinosmedia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Retro" tvg-id="6489c42e976ee90008547503" tvg-logo="https://images.pluto.tv/channels/6489c42e976ee90008547503/colorLogoPNG.png" ,Loco Por Ti
 https://i.mjh.nz/PlutoTV/16489c42e976ee90008547503-alt.m3u8
 #EXTINF:-1 group-title="Investigación" tvg-id="5e67d41b93312100076f3fca" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" ,Los archivos del FBI
 https://i.mjh.nz/PlutoTV/15e67d41b93312100076f3fca-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="1426" tvg-name="Los Heat TV" tvg-logo="https://cdn.m3u.cl/logo/1426_Los_Heat_TV.png" ,Los Heat TV | US
+https://mdstrm.com/video/631f6f0fe4eba7082bc551ad.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Kids" tvg-id="6322099c822bbc00074857db" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" ,Los Padrinos Mágicos
 https://i.mjh.nz/PlutoTV/16322099c822bbc00074857db-alt.m3u8
 #EXTINF:-1 group-title="Retro" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" ,Los Tres Chiflados
@@ -123,18 +187,30 @@ https://i.mjh.nz/PlutoTV/16487761d17f5e10008cbc000-alt.m3u8
 https://i.mjh.nz/PlutoTV/15f8a0e7a9ab0370008b177f2-alt.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-id="5f99a772c54853000797bf18" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" ,Lucha Libre AAA
 https://i.mjh.nz/PlutoTV/15f99a772c54853000797bf18-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="1550" tvg-name="M Music TV" tvg-logo="https://cdn.m3u.cl/logo/1550_M_Music_TV.png" ,M Music TV | CL
+https://cdn.mycloudstream.io/hls/live/broadcast/hdc1pno4/mono.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Retro" tvg-id="63eb95baa99571000898a078" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" ,MacGyver
 https://i.mjh.nz/PlutoTV/163eb95baa99571000898a078-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://cdn.m3u.cl/logo/40_Mas_Cumbia.png" ,Mas Cumbia | PE
+https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8?token=f749c69e1bb169e24049c4c557e65899ba0718bc-df0876db1acf2e21cb925551f116726f-1696000627-1695989827&PlaylistM3UCL
 #EXTINF:-1 group-title="Competencia" tvg-id="5e3ddbd27091820009f86dd9" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" ,MasterChef
 https://i.mjh.nz/PlutoTV/15e3ddbd27091820009f86dd9-alt.m3u8
 #EXTINF:-1 group-title="Competencia" tvg-id="64bed7005dc16600089b84e9" tvg-logo="https://images.pluto.tv/channels/64bed7005dc16600089b84e9/colorLogoPNG.png" ,MasterChef Junior
 https://i.mjh.nz/PlutoTV/164bed7005dc16600089b84e9-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://cdn.m3u.cl/logo/33_Maxima_FM.png" ,Maxima FM | CL
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="471" tvg-name="Memorias TV" tvg-logo="https://cdn.m3u.cl/logo/471_Memorias_TV.png" ,Memorias TV | PE
+https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Competencia" tvg-id="5e46e64dc73db400094b5f0b" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" ,Minuto Para Ganar
 https://i.mjh.nz/PlutoTV/15e46e64dc73db400094b5f0b-alt.m3u8
 #EXTINF:-1 group-title="Curiosidad" tvg-id="5f230e416b68ff00075b0139" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" ,Misterios Medicos
 https://i.mjh.nz/PlutoTV/15f230e416b68ff00075b0139-alt.m3u8
 #EXTINF:-1 group-title="Investigación" tvg-id="5f610042272f68000867685b" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" ,Misterios sin Resolver
 https://i.mjh.nz/PlutoTV/15f610042272f68000867685b-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="1271" tvg-name="MMC - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1271_MMC___Freetv_com.png" ,MMC - Freetv.com | US
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1077" tvg-name="Molahits TV" tvg-logo="https://cdn.m3u.cl/logo/1077_Molahits_TV.png" ,Molahits TV | ES
+http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Curiosidad" tvg-id="60e5ea9a9bb4200008376f76" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" ,Motorvision TV
 https://i.mjh.nz/PlutoTV/160e5ea9a9bb4200008376f76-alt.m3u8
 #EXTINF:-1 group-title="Música" tvg-id="6047fabfce6e8e00070bcc9f" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" ,MTV Biggest Pop
@@ -159,6 +235,10 @@ https://i.mjh.nz/PlutoTV/161a52615cbef2500072876e2-alt.m3u8
 https://i.mjh.nz/PlutoTV/16047fd723b5bd00007de7092-alt.m3u8
 #EXTINF:-1 group-title="Reality" tvg-id="620fd9f4afb9a80007a9c6d5" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" ,MTV Teen Mom
 https://i.mjh.nz/PlutoTV/1620fd9f4afb9a80007a9c6d5-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" ,Mundo de la Musica TV ✪ | CL
+https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1473" tvg-name="Music PUQ" tvg-logo="https://cdn.m3u.cl/logo/1473_Music_PUQ.png" ,Music PUQ | CL
+https://vdochile.com:3761/live/redupxprlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Anime & Gaming" tvg-id="5ee92e72fb286e0007285fec" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" ,Naruto
 https://i.mjh.nz/PlutoTV/15ee92e72fb286e0007285fec-alt.m3u8
 #EXTINF:-1 group-title="Anime & Gaming" tvg-id="64c92fea3c3344000869e8a9" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" ,Naruto Shippuden
@@ -179,18 +259,34 @@ https://i.mjh.nz/PlutoTV/1645952687cb4b100084ed52e-alt.m3u8
 https://i.mjh.nz/PlutoTV/16202ab549654c800076ee13f-alt.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-id="5f9afb01816137000737f799" tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" ,Nosey Escándalos
 https://i.mjh.nz/PlutoTV/15f9afb01816137000737f799-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png" ,Nubeh TV | VE
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Curiosidad" tvg-id="64025592953da40008bf9238" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" ,Obsesión por los Autos
 https://i.mjh.nz/PlutoTV/164025592953da40008bf9238-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="1244" tvg-name="Oldies Hits TV" tvg-logo="https://cdn.m3u.cl/logo/1244_Oldies_Hits_TV.png" ,Oldies Hits TV | CR
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Anime & Gaming" tvg-id="5ff4b9ccf938f8000779eb99" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" ,One Piece
 https://i.mjh.nz/PlutoTV/15ff4b9ccf938f8000779eb99-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="926" tvg-name="Oxigeno Network" tvg-logo="https://cdn.m3u.cl/logo/926_Oxigeno_Network.png" ,Oxigeno Network | VE
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Curiosidad" tvg-id="5f4fed840a2764000720d966" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" ,Paisajes por Stingray
 https://i.mjh.nz/PlutoTV/15f4fed840a2764000720d966-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="924" tvg-name="Panavision" tvg-logo="https://cdn.m3u.cl/logo/924_Panavision.png" ,Panavision | VE
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1236" tvg-name="PANC TV" tvg-logo="https://cdn.m3u.cl/logo/1236_PANC_TV.png" ,PANC TV | AR
+https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Paramount+ Presenta" tvg-id="600728952b1776000776526d" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" ,Paramount+ Presenta
 https://i.mjh.nz/PlutoTV/1600728952b1776000776526d-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="1424" tvg-name="Parentesis TV" tvg-logo="https://cdn.m3u.cl/logo/1424_Parentesis_TV.png" ,Parentesis TV | CL
+https://vdo.miserver.pro:3591/live/parentesistvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Kids" tvg-id="6495c6ad115d060008bf6b52" tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG.png" ,PAW Patrol Patrulla de Cachorros
 https://i.mjh.nz/PlutoTV/16495c6ad115d060008bf6b52-alt.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-id="64f6163a30ab3300083d870e" tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" ,PFL MMA
 https://i.mjh.nz/PlutoTV/164f6163a30ab3300083d870e-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="1092" tvg-name="Planeta TV" tvg-logo="https://cdn.m3u.cl/logo/1092_Planeta_TV.png" ,Planeta TV | PE
+https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1014" tvg-name="PlanetaTV Music" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV_Music.png" ,PlanetaTV Music | CL
+https://scl.edge.grupoz.cl/music/live/music.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Competencia" tvg-id="5dd6d935d000120009bc1132" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" ,Pluto TV  Competencias
 https://i.mjh.nz/PlutoTV/15dd6d935d000120009bc1132-alt.m3u8
 #EXTINF:-1 group-title="Películas" tvg-id="5defde6d6c07b50009cf0757" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" ,Pluto TV  Nuestro Cine
@@ -289,22 +385,58 @@ https://i.mjh.nz/PlutoTV/15dd6dc7480e3550009133d4a-alt.m3u8
 https://i.mjh.nz/PlutoTV/15dcddfbdb7cf0e0009ae09ea-alt.m3u8
 #EXTINF:-1 group-title="Curiosidad" tvg-id="5df265697ec3510009df1ef0" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" ,Pluto TV Vida Real
 https://i.mjh.nz/PlutoTV/15df265697ec3510009df1ef0-alt.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-id="ESBC3900004ED" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20230712T021344SQUARE.png_20230712021345.png" ,Pocoyó
+https://i.mjh.nz/SamsungTVPlus/ESBC3900004ED.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://cdn.m3u.cl/logo/31_Portal_FoxMix.png" ,Portal FoxMix | CL
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1508" tvg-name="Radio Los Condor" tvg-logo="https://cdn.m3u.cl/logo/1508_Radio_Los_Condor.png" ,Radio Los Condor | CL
+https://icecast.centaury.cl:8443/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="785" tvg-name="Re7" tvg-logo="https://cdn.m3u.cl/logo/785_Re7.png" ,Re7 | CL
+https://cp.panelchs.com:1936/etpxbvxrcp/etpxbvxrcp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" ,Recuerdos Retro Radio TV ✪ | CL
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1403" tvg-name="Red Circle" tvg-logo="https://cdn.m3u.cl/logo/1403_Red_Circle.png" ,Red Circle | CL
+https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://cdn.m3u.cl/logo/21_Retro_Music_Television.png" ,Retro Music Television | CZ
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" ,Retro Plus TV Señal 2 ✪ | CL
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" ,Retro Plus TV ✪ | CL
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1" tvg-name="Rewind Radio y TV" tvg-logo="https://cdn.m3u.cl/logo/1_Rewind_Radio_y_TV.png" ,Rewind Radio y TV ✪ | CL
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1471" tvg-name="Ritmos Peru" tvg-logo="https://cdn.m3u.cl/logo/1471_Ritmos_Peru.png" ,Ritmos Peru | PE
+https://servilive.com:3791/live/ritmosperulive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Novelas" tvg-id="61f159209fcc3800076ed4a1" tvg-logo="https://images.pluto.tv/channels/61f159209fcc3800076ed4a1/colorLogoPNG.png" ,Rock Story
 https://i.mjh.nz/PlutoTV/161f159209fcc3800076ed4a1-alt.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="64ff270f30ab3300084e259c" tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png" ,Rookie Blue: Policías Novatos
 https://i.mjh.nz/PlutoTV/164ff270f30ab3300084e259c-alt.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="5ea7215005d66d0007e8128a" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" ,Rugrats
 https://i.mjh.nz/PlutoTV/15ea7215005d66d0007e8128a-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://cdn.m3u.cl/logo/13_Ruidos_TV.png" ,Ruidos TV ✪ | CL
+https://panel.tvstream.cl:1936/8022/8022/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Películas" tvg-id="62c5d80dc6de440007e033eb" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" ,Runtime
 https://i.mjh.nz/PlutoTV/162c5d80dc6de440007e033eb-alt.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="620ac814864949000724fb77" tvg-logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png" ,Schitt's Creek
 https://i.mjh.nz/PlutoTV/1620ac814864949000724fb77-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="18" tvg-name="ShowVen TV" tvg-logo="https://cdn.m3u.cl/logo/18_ShowVen_TV.png" ,ShowVen TV | VE
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Novelas" tvg-id="604bdf4e6d0abc0007ba77ad" tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png" ,Sin Tetas No Hay Paraíso
 https://i.mjh.nz/PlutoTV/1604bdf4e6d0abc0007ba77ad-alt.m3u8
 #EXTINF:-1 group-title="Curiosidad" tvg-id="63a084934734f30007457b2c" tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" ,Smithsonian Channel Pluto TV
 https://i.mjh.nz/PlutoTV/163a084934734f30007457b2c-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="1128" tvg-name="Solobailalo TV" tvg-logo="https://cdn.m3u.cl/logo/1128_Solobailalo_TV.png" ,Solobailalo TV | CL
+https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1064" tvg-name="Soy Plancha TV" tvg-logo="https://cdn.m3u.cl/logo/1064_Soy_Plancha_TV.png" ,Soy Plancha TV | CR
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Retro" tvg-id="6489c45766e48500083cceb6" tvg-logo="https://images.pluto.tv/channels/6489c45766e48500083cceb6/colorLogoPNG.png" ,Starsky & Hutch
 https://i.mjh.nz/PlutoTV/16489c45766e48500083cceb6-alt.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-id="ESBA33000233H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000233H_20220824T005421SQUARE.png_20220824005421.png" ,SuperToons TV
+https://i.mjh.nz/SamsungTVPlus/ESBA33000233H.m3u8
+#EXTINF:-1 group-title="Deporte Extremo" tvg-id="ESBA140000460" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20220323T082117SQUARE.png_20220323082120.png" ,Surf Channel
+https://i.mjh.nz/SamsungTVPlus/ESBA140000460.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="847" tvg-name="Tango TV" tvg-logo="https://cdn.m3u.cl/logo/847_Tango_TV.png" ,Tango TV | AR
+https://video.misistemareseller.com/8118/8118/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Estilo de Vida" tvg-id="5f998c1fc54853000797bacd" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" ,Tastemade
 https://i.mjh.nz/PlutoTV/15f998c1fc54853000797bacd-alt.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-id="63ceb6ff60bc8f00088dc625" tvg-logo="https://images.pluto.tv/channels/63ceb6ff60bc8f00088dc625/colorLogoPNG.png" ,Teatrix
@@ -323,10 +455,46 @@ https://i.mjh.nz/PlutoTV/15ea71d48af1d0b0007d837f4-alt.m3u8
 https://i.mjh.nz/PlutoTV/1624f4d4a4321e200073f46e0-alt.m3u8
 #EXTINF:-1 group-title="Comedia" tvg-id="5ebacbcae43a6d000787b88e" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" ,The Pet Collective
 https://i.mjh.nz/PlutoTV/15ebacbcae43a6d000787b88e-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://cdn.m3u.cl/logo/17_The_Retro_Channel.png" ,The Retro Channel | PR
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Anime & Gaming" tvg-id="5ff608e60e2996000768c366" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" ,Tokusato
 https://i.mjh.nz/PlutoTV/15ff608e60e2996000768c366-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://cdn.m3u.cl/logo/35_TOP_Latino_TV.png" ,TOP Latino TV | PE
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="546" tvg-name="Top TV" tvg-logo="https://cdn.m3u.cl/logo/546_Top_TV.png" ,Top TV | BR
+https://isaocorp.cloudecast.com/toptv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="845" tvg-name="Tu Musica HD" tvg-logo="https://cdn.m3u.cl/logo/845_Tu_Musica_HD.png" ,Tu Musica HD | DO
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png" ,Turbo Mix TV | PE
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="34" tvg-name="TV vconline.cl" tvg-logo="https://cdn.m3u.cl/logo/34_TV_vconline_cl.png" ,TV vconline.cl | CL
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1476" tvg-name="Urban Pro DJ" tvg-logo="https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png" ,Urban Pro DJ | CL
+https://vdochile.com:3119/stream/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="14" tvg-name="Urban TV" tvg-logo="https://cdn.m3u.cl/logo/14_Urban_TV.png" ,Urban TV ✪ | ES
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1234" tvg-name="Urbano TV" tvg-logo="https://cdn.m3u.cl/logo/1234_Urbano_TV.png" ,Urbano TV | CR
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1255" tvg-name="VClassicTV Tropical" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" ,VClassicTV Tropical | CL
+https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" ,VClassicTV | CL
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="ESBD230000289" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20230712T021354SQUARE.png_20230712021354.png" ,Vevo '70s & '80s
+https://i.mjh.nz/SamsungTVPlus/ESBD230000289.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="ESBC2100002LV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230913T030617SQUARE.png_20230913030618.png" ,Vevo Latino
+https://i.mjh.nz/SamsungTVPlus/ESBC2100002LV.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="ESBD3900001P4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3900001P4_20231101T032755SQUARE.png_20231101032756.png" ,Vevo Navidad
+https://i.mjh.nz/SamsungTVPlus/ESBD3900001P4.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="ESBC2100001IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20230412T042424SQUARE.png_20230412042425.png" ,Vevo Pop
+https://i.mjh.nz/SamsungTVPlus/ESBC2100001IU.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://cdn.m3u.cl/logo/22_Video_Tour_Channel.png" ,Video Tour Channel | CR
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Música" tvg-id="1063" tvg-name="Vintage Music" tvg-logo="https://cdn.m3u.cl/logo/1063_Vintage_Music.png" ,Vintage Music | CR
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Series" tvg-id="639751f81a36b400072b8f5a" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" ,Vive Kanal D Drama
 https://i.mjh.nz/PlutoTV/1639751f81a36b400072b8f5a-alt.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="1291" tvg-name="Voice Over Radio TV" tvg-logo="https://cdn.m3u.cl/logo/1291_Voice_Over_Radio_TV.png" ,Voice Over Radio TV | CR
+https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8?DVR&PlaylistM3UCL
 #EXTINF:-1 group-title="Competencia" tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" ,Wipe Out
 https://i.mjh.nz/PlutoTV/15ed6828192e8b3000743ef61-alt.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="619d56d9fa3070000709e3f7" tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" ,Younger
