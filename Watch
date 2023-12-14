@@ -3,18 +3,28 @@
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,.Invítame un cafecito ♥
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/05SPyaD.jpg" ,_Animal Planet HD
-http://200.95.184.42:8001/play/animalplanethd
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lfzfz0T.jpg" ,_Cartoon Network HD
-http://200.95.184.42:8001/play/a05i
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/jwB7uLu.jpg" ,_Cinecanal HD
-http://200.95.184.42:8001/play/a05c
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/d83p3IP.jpg" ,_Cinemax HD
-http://200.95.184.42:8001/play/cinemaxhd
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/05SPyaD.jpg" ,_Animal Planet
+http://iptvtree.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/298043
+#EXTINF:-1 group-title="Intl" tvg-logo="https://imgur.com/RXNcImL" ,_AXN
+http://landiptv.vip:2095/play/hYqPwBrtZn7mldlcpVbx8psQq6uDXJqqC1j5mnBr_Do
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lfzfz0T.jpg" ,_Cartoon Network
+http://iptvtree.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/9043
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/jwB7uLu.jpg" ,_Cinecanal
+http://iptvtree.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/290334
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/d83p3IP.jpg" ,_Cinemax
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/5770
+#EXTINF:-1 group-title="Intl" tvg-logo="https://imgur.com/QLrobgP" ,_Discovery
+http://landiptv.vip:2095/play/hYqPwBrtZn7mldlcpVbx8rgGMQrHgFujSTlRf3CcSVE
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/JfurYRt.jpg" ,_Discovery World HD
-http://200.95.184.42:8001/play/a05b
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/8894
+#EXTINF:-1 group-title="Intl" tvg-logo="https://imgur.com/olNsn8k" ,_Disney Channel
+http://landiptv.vip:2095/play/hYqPwBrtZn7mldlcpVbx8stCMaH71uaDvxvIUh6Yqok
+#EXTINF:-1 group-title="Intl" ,_FOX
+http://landiptv.vip:2095/play/hYqPwBrtZn7mldlcpVbx8h3TyV1AQHn8kQAYUTDr5lI
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ks3Kvxr.jpg" ,_HBO Family
-http://200.95.184.42:8001/play/a0ep
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/3057
+#EXTINF:-1 group-title="Intl" tvg-logo="https://imgur.com/Omo7NV5" ,_NatGeo
+http://landiptv.vip:2095/play/hYqPwBrtZn7mldlcpVbx8j5wTLbSStURS6Jez9yyR6E
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/TBhAabc.jpg" ,3ABN KIDS
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 group-title="Curiosidad" tvg-id="645d1abbe1979c0008779d5a" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" ,Archivos Extraterrestres
