@@ -1,44 +1,54 @@
 #EXTM3U 
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,.Enero 2024
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,*Enero 10/2024
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,.Invítame un cafecito ♥
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,*Invítame un cafecito ♥
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/TBhAabc.jpg" ,_3ABN KIDS
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/TBhAabc.jpg" ,*3ABN KIDS
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
-#EXTINF:-1 group-title="CURIOSIDAD" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/featuredImage.jpg" ,_Animales
-https://stitcher.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lfzfz0T.jpg" ,_Cartoon Network
+#EXTINF:-1 group-title="CURIOSIDAD" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/featuredImage.jpg" ,*Animales
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ae6a78d801e0007117d21/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/lfzfz0T.jpg" ,*Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/2K9lwTn.jpg" ,_CGTN Español
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/2K9lwTn.jpg" ,*CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/JfurYRt.jpg" ,_Discovery World HD
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/JfurYRt.jpg" ,*Discovery World HD
 http://190.90.154.73:8080/play/a03c/index.m3u8
-#EXTINF:-1 group-title="Other" tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/zm8NqNL.jpg" ,_DW Español (1080p)
+#EXTINF:-1 group-title="Other" tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/zm8NqNL.jpg" ,*DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/2xS7vLD.jpg" ,_Latino Kids
+#EXTINF:-1 group-title="Estilo de Vida" tvg-id="ESBC3500002PW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" ,*Ideas en 5 Minutos
+https://i.mjh.nz/SamsungTVPlus/ESBC3500002PW.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-id="ESBC2700008SK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" ,*Just For Laughs
+https://i.mjh.nz/SamsungTVPlus/ESBC2700008SK.m3u8
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/2xS7vLD.jpg" ,*Latino Kids
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1198664912.m3u8
-#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/PakpjCd.jpg" ,_MoniTV
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
-#EXTINF:-1 group-title="CURIOSIDAD" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/featuredImage.jpg" ,_Naturaleza
-https://stitcher.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/e62JJsJ.jpg" ,_Planeta TV Family
+#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/PakpjCd.jpg" ,*MoniTV
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CURIOSIDAD" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/featuredImage.jpg" ,*Naturaleza
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/featuredImage.jpg" ,*Nick Teen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Infantil" tvg-id="ESBD130000205" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" ,*Pitufo TV
+https://i.mjh.nz/SamsungTVPlus/ESBD130000205.m3u8
+#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/e62JJsJ.jpg" ,*Planeta TV Family
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1840575557.m3u8
-#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/e62JJsJ.jpg" ,_Planeta TV Movie
+#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/e62JJsJ.jpg" ,*Planeta TV Movie
 https://scl.edge.grupoz.cl/movie/live/chunklist_w1701900838.m3u8
-#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/e62JJsJ.jpg" ,_Planeta TV Music
+#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/e62JJsJ.jpg" ,*Planeta TV Music
 https://scl.edge.grupoz.cl/music/live/chunklist_w1778631985.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/j6LasF4.jpg" ,_RedBull
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/j6LasF4.jpg" ,*RedBull
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/pe/en/playlist.m3u8
-#EXTINF:-1 group-title="Chile" tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://i.imgur.com/JeKQ8j4.jpg" ,_Retro Plus TV 1
+#EXTINF:-1 group-title="Chile" tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://i.imgur.com/JeKQ8j4.jpg" ,*Retro Plus TV 1
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile" tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://i.imgur.com/JeKQ8j4.jpg" ,_Retro Plus TV 2
+#EXTINF:-1 group-title="Chile" tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://i.imgur.com/JeKQ8j4.jpg" ,*Retro Plus TV 2
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile" tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i.imgur.com/JeKQ8j4.jpg" ,_Retro Plus TV 3
+#EXTINF:-1 group-title="Chile" tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i.imgur.com/JeKQ8j4.jpg" ,*Retro Plus TV 3
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/U3piGHV.jpg" ,_RT Español
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/U3piGHV.jpg" ,*RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:-1 group-title="MARATONES" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/featuredImage.jpg" ,_WipeOut
-https://stitcher.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="Other" tvg-logo="https://www.oficinadanet.com.br/imagens/post/37954/chamada-iptv-gratis-pluto-tv-south-park-on-demand.jpg" ,*South Park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="MARATONES" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/featuredImage.jpg" ,*WipeOut
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="c.Chile" tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" ,+Cine | CL
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="General" tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/7oNe8xj.png" ,002 Radio TV (720p)
@@ -1331,10 +1341,10 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="CVisionTV.ar" tvg-logo="https://i.imgur.com/QyAHZkH.png" ,CVisión TV (720p)
 https://stream.cvisiontv.com/cvision_stream.m3u8
-#EXTINF:-1 group-title="Legislative" tvg-id="ChamberofRepresentatives.co" tvg-logo="https://i.imgur.com/RbZEicf.png" ,Cámara de Representantes (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCzescUFTh2jiZkYIx9uZtqA.m3u8
 #EXTINF:-1 group-title="Legislative" tvg-id="ChamberofRepresentatives.uy" tvg-logo="https://i.imgur.com/tvIFxu1.png" ,Cámara de Representantes (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCUxioxgZ7obrP3wVJApAK1w.m3u8
+#EXTINF:-1 group-title="Legislative" tvg-id="ChamberofRepresentatives.co" tvg-logo="https://i.imgur.com/RbZEicf.png" ,Cámara de Representantes (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCzescUFTh2jiZkYIx9uZtqA.m3u8
 #EXTINF:-1 group-title="Legislative" tvg-id="CamaradeSenadores.uy" tvg-logo="https://i.imgur.com/6NBK4LN.png" ,Cámara de Senadores (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCyM7oro5NhR5oPyMEFB_rUA.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" ,Cáscara TV (1080p)
@@ -1897,8 +1907,6 @@ https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Infantil" tvg-id="ESBA3300028OE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20220914T041141SQUARE.png_20220914041142.png" ,iCarly
 https://i.mjh.nz/SamsungTVPlus/ESBA3300028OE.m3u8
-#EXTINF:-1 group-title="Estilo de Vida" tvg-id="ESBC3500002PW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" ,Ideas en 5 Minutos
-https://i.mjh.nz/SamsungTVPlus/ESBC3500002PW.m3u8
 #EXTINF:-1 group-title="News" tvg-id="IdentidadTV.pe" tvg-logo="https://i.imgur.com/q5jxzr2.png" ,Identidad TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-id="IeanJesusEcuador.ec" tvg-logo="https://i.imgur.com/TyckDSV.png" ,IeanJesus Ecuador (720p)
@@ -1985,8 +1993,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
 #EXTINF:-1 group-title="c.Chile" tvg-id="1148" tvg-name="Juntos TV" tvg-logo="https://cdn.m3u.cl/logo/1148_Juntos_TV.png" ,Juntos TV | CL
 https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="ESBC2700008SK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" ,Just For Laughs
-https://i.mjh.nz/SamsungTVPlus/ESBC2700008SK.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="JusticiaTV.mx" tvg-logo="https://i.imgur.com/zyAS1hk.png" ,Justicia TV (720p)
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-id="JuventudRenovadaenelEspirituSanto.us" tvg-logo="https://i.imgur.com/lTdwfd8.png" ,Juventud Renovada en el Espiritu Santo (720p) [Not 24/7]
@@ -2789,8 +2795,6 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
 #EXTINF:-1 group-title="c.Chile" tvg-id="64" tvg-name="Pintana TV" tvg-logo="https://cdn.m3u.cl/logo/64_Pintana_TV.png" ,Pintana TV | CL
 http://live.mundogo.cl/mundo/Pintanatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Infantil" tvg-id="ESBD130000205" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" ,Pitufo TV
-https://i.mjh.nz/SamsungTVPlus/ESBD130000205.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="Planet1009FM.pa" tvg-logo="https://i.imgur.com/8ZIBs8l.png" ,Planet 100.9 FM (1080p)
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" ,Planeta TV (720p) [Not 24/7]
@@ -3897,10 +3901,10 @@ https://unlimited1-cl-isp.dps.live/tcsc/tcsc.smil/playlist.m3u8?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Teleceiba.hn" tvg-logo="https://i.imgur.com/oPSfsvy.png" ,Teleceiba (1080p)
 https://920cd9e18619.ngrok.app/hls/stream.m3u8
-#EXTINF:-1 group-title="General" tvg-id="Telecentro.ve" tvg-logo="https://i.imgur.com/QtRNfaj.png" ,Telecentro (480p)
-https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Telecentro.do" tvg-logo="https://i.imgur.com/F17zNXh.png" ,Telecentro (480p)
 http://51.81.93.239:8084/hls/telecentro.m3u8
+#EXTINF:-1 group-title="General" tvg-id="Telecentro.ve" tvg-logo="https://i.imgur.com/QtRNfaj.png" ,Telecentro (480p)
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
 #EXTINF:-1 group-title="General" tvg-id="TeleCimitarra.co" tvg-logo="https://i.imgur.com/OosxlPx.jpg" ,TeleCimitarra (720p)
 https://cp.panelchs.com:1936/8094/8094/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Telecinco.ar" tvg-logo="https://i.imgur.com/ZDenyAE.png" ,TeleCinco Trelew (240p)
@@ -4181,10 +4185,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobrossspanis
 https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 group-title="MARATONES" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/featuredImage.jpg" ,The New Detectives
 https://stitcher.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 group-title="COMEDIA" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/featuredImage.jpg" ,The Pet Collective
-https://stitcher.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 group-title="Entretenimiento" tvg-id="ESAJ4500016BH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20230222T012037SQUARE.png_20230222012037.png" ,The Pet Collective
 https://i.mjh.nz/SamsungTVPlus/ESAJ4500016BH.m3u8
+#EXTINF:-1 group-title="COMEDIA" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/featuredImage.jpg" ,The Pet Collective
+https://stitcher.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 group-title="Family" tvg-id="ThePetCollective.es" tvg-logo="https://i.imgur.com/F4hEPMK.png" ,The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="b.Música" tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://cdn.m3u.cl/logo/17_The_Retro_Channel.png" ,The Retro Channel | PR
