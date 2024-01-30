@@ -1,14 +1,26 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,* 30 de Enero
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/fN8MA1u.png" ,*Snyder Gonzáles
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/fN8MA1u.png" ,* Snyder Gonzáles
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,* ✨Donaciones✨📢
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/TBhAabc.jpg" ,*3ABN KIDS
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/JfurYRt.jpg" ,*Discovery World HD
+http://190.90.154.73:8080/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Other" tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/zm8NqNL.jpg" ,*DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/tgTbR3k.jpg" ,*HBO Family
+http://181.78.12.164:9000/play/a05y
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/MsfpBdb.png" ,*Love Nature
+http://190.90.154.73:8080/play/a03r/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/MsfpBdb.png" ,*Love Nature HD
+http://190.90.154.73:8080/play/a092/index.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" ,*Wipe Out
+https://r.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
 #EXTINF:-1 group-title="Chile" tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" ,+Cine | CL
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/TBhAabc.jpg" ,3ABN KIDS
-https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/6ZvTaeP.jpg" ,América TV
 http://190.61.61.154:9000/play/a08a
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/05SPyaD.jpg" ,Animal Planet
@@ -113,10 +125,6 @@ http://190.90.154.73:8080/play/a07e/index.m3u8
 http://190.90.154.73:8080/play/a060/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/KNoNPA6.jpg" ,Discovery Turbo
 http://190.90.154.73:8080/play/a07x/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/JfurYRt.jpg" ,Discovery World HD
-http://190.90.154.73:8080/play/a03c/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/JfurYRt.jpg" ,Discovery World HD
-http://190.90.154.73:8080/play/a03c/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/rY1OoQk.jpg" ,Disney Junior
 http://190.90.154.73:8080/play/a019/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-id="978" tvg-name="DMJ" tvg-logo="https://cdn.m3u.cl/logo/978_DMJ.png" ,DMJ | PE
@@ -125,8 +133,6 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8?PlaylistM3UCL
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Pluto TV" tvg-id="5f9992c685a2a80007fa414a" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" ,Dog el cazarrecompensas
 https://r.mjh.nz/PlutoTV/5f9992c685a2a80007fa414a-alt.m3u8
-#EXTINF:-1 group-title="Other" tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/zm8NqNL.jpg" ,DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Pluto TV" tvg-id="61099f2b40d0640007fc5aa2" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" ,El Encantador de Perros
 https://r.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/SOh6h5u.jpg" ,El Gourmet
@@ -169,6 +175,8 @@ http://190.90.154.73:8080/play/a065/index.m3u8
 http://190.90.154.73:8080/play/a086/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://cdn.m3u.cl/logo/41_Hatun_TV.jpg" ,Hatun TV | PE
 https://mi.godo.net.pe/Best00Hatum-0032101002/index.m3u8?token=bac16f8fe1d988a82e2077bfca45e1a29eab1d09-20fd168079ba17eb3f588267bdb38172-1696000662-1695989862&PlaylistM3UCL
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ZQBVHdz.jpg" ,HBO
+http://181.78.12.164:9000/play/a04c
 #EXTINF:-1 group-title="Peru" tvg-id="697" tvg-name="Hechicera TV" tvg-logo="https://cdn.m3u.cl/logo/697_Hechicera_TV.png" ,Hechicera TV | PE
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Pluto TV" tvg-id="631fb6be21b7440007b9f606" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" ,Hechizada
@@ -221,10 +229,6 @@ https://r.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
 https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 #EXTINF:-1 group-title="Pluto TV" tvg-id="6487761d17f5e10008cbc000" tvg-logo="https://images.pluto.tv/channels/6487761d17f5e10008cbc000/colorLogoPNG.png" ,Los Ángeles de Charlie
 https://r.mjh.nz/PlutoTV/6487761d17f5e10008cbc000-alt.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/MsfpBdb.png" ,Love Nature
-http://190.90.154.73:8080/play/a03r/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/MsfpBdb.png" ,Love Nature HD
-http://190.90.154.73:8080/play/a092/index.m3u8
 #EXTINF:-1 group-title="Pluto TV" tvg-id="5f99a772c54853000797bf18" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" ,Lucha Libre AAA
 https://r.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
 #EXTINF:-1 group-title="Pluto TV" tvg-id="63eb95baa99571000898a078" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" ,MacGyver
@@ -529,8 +533,6 @@ https://r.mjh.nz/PlutoTV/639751f81a36b400072b8f5a-alt.m3u8
 https://live.obslivestream.com/vztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/EMi2Vt1.jpg" ,Warner Channel
 http://190.90.154.73:8080/play/a04c/index.m3u8
-#EXTINF:-1 group-title="Pluto TV" tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" ,Wipe Out
-https://r.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
 #EXTINF:-1 group-title="Pluto TV" tvg-id="619d56d9fa3070000709e3f7" tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" ,Younger
 https://r.mjh.nz/PlutoTV/619d56d9fa3070000709e3f7-alt.m3u8
 #EXTINF:-1 group-title="Pluto TV" tvg-id="5fceaab478f2af00080ff51f" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" ,Yu-Gi-Oh
