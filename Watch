@@ -1,8 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,* 08 Febrero
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/lE9c256.jpg" ,* Activar Canales
-www.teleclub.xyz/activar
+#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/lE9c256.jpg" ,* Activar: www.teleclub.xyz/activar
+https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/fN8MA1u.png" ,* Snyder Gonzáles
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,* ✨Donaciones✨📢
@@ -41,54 +41,12 @@ http://rtmp.one.by:2300
 http://lova.me/hls/hithd.m3u8
 #EXTINF:-1 group-title="Chile" tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" ,+Cine | CL
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/jylQ77z.png" ,24h Alerta Aeropuerto
-http://tv.teleclub.xyz/envivo/24_7/ALERTA_AEROPUERTO/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/wSQ95AD.png" ,24h Ben 10
-http://tv.teleclub.xyz/envivo/24_7/BEN_10/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/JZGBqhd.png" ,24h Chavo del 8
-http://tv.teleclub.xyz/envivo/24_7/CHAVO_8/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/4vGK5VS.png" ,24h CHESPIRITO
-http://tv.teleclub.xyz/envivo/24_7/CHESPIRITO/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/kcfLruN.png" ,24h Correcaminos
-http://tv.teleclub.xyz/envivo/24_7/CORRECAMINOS/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/i2xKu4B.png" ,24h Digimon
-http://tv.teleclub.xyz/envivo/24_7/DIGIMON/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/FkxGND0.png" ,24h Dinosaurios
-http://tv.teleclub.xyz/envivo/24_7/DINOSAURIOS/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/OLgiV4Y.png" ,24h Don Gato y su Pandilla
-http://tv.teleclub.xyz/envivo/24_7/DON_GATO/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/it1OidM.png" ,24h Doraemon
-http://tv.teleclub.xyz/envivo/24_7/DORAEMON/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/FS44Hp0.png" ,24h Dragon Ball
-http://tv.teleclub.xyz/envivo/24_7/DRAGON_BALL/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/izriGGO.png" ,24h El Chapulin Colorado
-http://tv.teleclub.xyz/envivo/24_7/CHAPULIN_COLORADO/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/JquJMTJ.png" ,24h Familia Peluche
-http://tv.teleclub.xyz/envivo/24_7/FAMILIA_PELUCHE/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/9GMPwjG.png" ,24h La Rosa de Guadalupe
-http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/ePRV57v.png" ,24h LOONEY TOONS
-http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/CTGEBdg.png" ,24h Los Pitufos
-http://tv.teleclub.xyz/envivo/24_7/SIMPSONS_247/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/CWFgnoI.png" ,24h Los Simpsons
-http://tv.teleclub.xyz/envivo/24_7/LOS_SIMPSONS/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/m0lPshk.png" ,24h Mi Bella Genio
-http://tv.teleclub.xyz/envivo/24_7/BELLA_GENIO/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/Q3KJSUO.png" ,24h Padre de Familia
-http://tv.teleclub.xyz/envivo/24_7/PADRE_DE_FAMILIA/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/g7Csa8G.png" ,24h Principe del Rap
-http://tv.teleclub.xyz/envivo/24_7/PRINCIPE_DEL_RAP/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/kpP4ARk.png" ,24h South Park
-http://tv.teleclub.xyz/envivo/24_7/SOUTH_PARK/index.m3u8
 #EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/7Vaq92j.jpg" ,A&E
 http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
 #EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/MLdfm8o.png" ,ADN40
 http://tv.teleclub.xyz/envivo/Mundo/ADN40/index.m3u8
 #EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/LLWkHuv.png" ,Afizzionados
 http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/xX3Ksnj.png" ,ALF
-http://tv.teleclub.xyz/envivo/24_7/ALF/index.m3u8
 #EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/EomyGGs.jpg" ,AMC
 http://tv.teleclub.xyz/envivo/Entretenimiento/AMC/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/05SPyaD.jpg" ,Animal Planet
@@ -97,8 +55,6 @@ http://190.90.154.73:8080/play/a07f/index.m3u8
 http://tv.teleclub.xyz/envivo/Cultura/ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/0A0KkZ2.png" ,Antena 3
 http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8
-#EXTINF:-1 group-title="Pluto TV" tvg-id="645d1abbe1979c0008779d5a" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" ,Archivos Extraterrestres
-https://r.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
 #EXTINF:-1 group-title="Pluto TV" tvg-id="5efb8c19b2678b000780d032" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" ,Archivos Forenses
 https://r.mjh.nz/PlutoTV/5efb8c19b2678b000780d032-alt.m3u8
 #EXTINF:-1 group-title="Peru" tvg-id="1492" tvg-name="ATV Sur" tvg-logo="https://cdn.m3u.cl/logo/1492_ATV_Sur.png" ,ATV Sur | PE
