@@ -1,12 +1,14 @@
 #EXTM3U 
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,* Febrero 11
-https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
-#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/lE9c256.jpg" ,* Activar Canales Intl
-https://i.imgur.com/7jYwSW4.png
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/fN8MA1u.png" ,* Snyder Gonzáles
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,* Febrero 12
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,* ✨Donaciones✨📢
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/fN8MA1u.png" ,* Snyder Gonzáles
+https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
+#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/lE9c256.jpg" ,* Activar aquí (test)
+https://tv.teleclub.xyz/activar
+#EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/lE9c256.jpg" ,* Activar Canales (video)
+https://raw.githubusercontent.com/NyderGX/X/Blur/Activar%20canales.mp4
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/6ZvTaeP.jpg" ,*América TV
 http://190.61.61.154:9000/play/a08a
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/6ZvTaeP.jpg" ,*América TV
@@ -33,6 +35,12 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile" tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" ,*Moni TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:-1 group-title="Nuevo Tiempo" tvg-logo="https://i.imgur.com/ktNvO4z.jpeg" ,*NT El Origen de Todo
+https://stream.vod.ntplay.com/ntplay/smil:559608.smil/playlist.m3u8
+#EXTINF:-1 group-title="Nuevo Tiempo" tvg-logo="https://i.imgur.com/ktNvO4z.jpeg" ,*NT Paz para vivir
+https://stream.vod.ntplay.com/ntplay/smil:517729.smil/playlist.m3u8
+#EXTINF:-1 group-title="Nuevo Tiempo" tvg-logo="https://i.imgur.com/zfd4Edk.jpeg" ,*NT Radio Nuevo Tiempo
+https://stream.live.novotempo.com/radio/smil:radionuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 group-title="Pluto TV" tvg-id="5dd834c66fe2ca0009303b8d" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" ,*Pluto TV Animales
 https://r.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
 #EXTINF:-1 group-title="Pluto TV" tvg-id="5dd85eac039bba0009e86d1d" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" ,*Pluto TV Naturaleza
