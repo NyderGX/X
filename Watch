@@ -1,7 +1,7 @@
 #EXTM3U 
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,* Febrero 18
-https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/UVbGpC9.png" ,* Snyder Gonzáles
+https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,* Febrero 18
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,* ✨Donaciones✨📢
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
@@ -19,11 +19,11 @@ http://181.176.19.154:8000/play/a055
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Peru" tvg-id="1066" tvg-name="ATV+" tvg-logo="https://i.imgur.com/hMPPFMd.jpeg" ,*ATV+ | PE
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/JfurYRt.jpg" ,*Discovery World
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/hKIJf6n.jpg" ,*Discovery World
 http://190.90.154.73:8080/play/a03c/index.m3u8
 #EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/n8yegix.jpg" ,*Discovery World
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_WORLD/index.m3u8
-#EXTINF:-1 group-title="Other" tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/zm8NqNL.jpg" ,*DW Español
+#EXTINF:-1 group-title="Other" tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/lgMaIM7.jpeg" ,*DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/fYvrHY2.png" ,*El Gourmet
 http://tv.teleclub.xyz/envivo/Cultura/EL_GOURMET/index.m3u8
@@ -41,19 +41,25 @@ https://r.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
 https://r.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
 #EXTINF:-1 group-title="Nuevo Tiempo" tvg-logo="https://i.imgur.com/zfd4Edk.jpeg" ,*Radio Nuevo Tiempo
 https://stream.live.novotempo.com/radio/smil:radionuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 group-title="Russia Music" tvg-id="LaMinorTV.ru" tvg-logo="https://i.imgur.com/RH6hTWG.png" ,*Ля-Минор
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/UYhqiVr.jpeg" ,*Telemundo
+http://181.78.77.118:8000/play/a0rr/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/UYhqiVr.jpeg" ,*Telemundo
+http://181.78.73.221:8000/play/a0zl/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/UYhqiVr.jpeg" ,*Telemundo
+http://181.78.75.83:5013/play/a077/index.m3u8
+#EXTINF:-1 group-title="Russian Music" tvg-id="LaMinorTV.ru" tvg-logo="https://i.imgur.com/RH6hTWG.png" ,*Ля-Минор
 http://camera.global-x.ru/Lya-Minor/index.m3u8
-#EXTINF:-1 group-title="Russia Music" tvg-id="MuzykaPervogo.ru" tvg-logo="https://i.imgur.com/U0vKj3P.png" ,*Музыка Первого
+#EXTINF:-1 group-title="Russian Music" tvg-id="MuzykaPervogo.ru" tvg-logo="https://i.imgur.com/U0vKj3P.png" ,*Музыка Первого
 http://streaming.tv-teleport.ru/Muzika_Pervogo/index.m3u8
-#EXTINF:-1 group-title="Russia Music" tvg-id="FirstMusicChannel.by" tvg-logo="https://i.imgur.com/YdyFJrl.png" ,*Первый Музыкальный Канал HD (1080p)
+#EXTINF:-1 group-title="Russian Music" tvg-id="FirstMusicChannel.by" tvg-logo="https://i.imgur.com/YdyFJrl.png" ,*Первый Музыкальный Канал HD (1080p)
 http://rtmp.one.by:1300
-#EXTINF:-1 group-title="Russia Music" tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/rEo7nR1.png" ,*Первый Музыкальный Канал Россия HD (1080p)
+#EXTINF:-1 group-title="Russian Music" tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/rEo7nR1.png" ,*Первый Музыкальный Канал Россия HD (1080p)
 http://rtmp.one.by:2300
-#EXTINF:-1 group-title="Russia Music" tvg-id="RadioHit.ru" tvg-logo="https://i.imgur.com/5xKqV1s.png" ,*Радио Хит (Орск) (720p)
+#EXTINF:-1 group-title="Russian Music" tvg-id="RadioHit.ru" tvg-logo="https://i.imgur.com/5xKqV1s.png" ,*Радио Хит (Орск) (720p)
 http://lova.me/hls/hithd.m3u8
 #EXTINF:-1 group-title="Chile" tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" ,+Cine | CL
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/TBhAabc.jpg" ,3ABN KIDS
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/nhySLYA.jpeg" ,3ABN KIDS
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 group-title="Teleclub" tvg-logo="https://i.imgur.com/7Vaq92j.jpg" ,A&E
 http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
