@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/UVbGpC9.png" ,* Snyder Gonzáles
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,* Febrero 20
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Wlt9Wk0.jpg" ,* Febrero 21
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/Ku2bL9b.jpg" ,* ✨Donaciones✨📢
 https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
@@ -13,8 +13,8 @@ http://190.61.61.154:9000/play/a08a
 http://45.235.37.254:8370/play/a028
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/GZFjpS2.jpeg" ,*América TV
 http://38.43.132.86:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/GZFjpS2.jpeg" ,*América TV SD ♥
-http://181.176.19.154:8000/play/a055
+#EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/GZFjpS2.jpeg" ,*América TV SD
+http://181.175.41.170:200/play/a091
 #EXTINF:-1 group-title="Peru" tvg-id="1065" tvg-name="ATV" tvg-logo="https://i.imgur.com/pxO18dp.jpeg" ,*ATV | PE
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Peru" tvg-id="1066" tvg-name="ATV+" tvg-logo="https://i.imgur.com/hMPPFMd.jpeg" ,*ATV+ | PE
